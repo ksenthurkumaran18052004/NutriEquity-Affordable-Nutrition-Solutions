@@ -1,0 +1,1001 @@
+Hospital Name,City,State,ZIP,Address,Service Name,Service Code,Department,Price (USD),Insurance Accepted,Average Wait Time (min),Hospital Rating
+Hospital 1,City 1,State 1,13646,"891 Main St, City 1, State 1",MRI,70551,Radiology,19374,Medicare,44,3.6
+Hospital 1,City 1,State 1,84161,"464 Main St, City 1, State 1",X-Ray,71020,Radiology,15514,Private,20,2.5
+Hospital 1,City 1,State 1,55667,"652 Main St, City 1, State 1",Blood Test,85025,Laboratory,18602,Uninsured,37,4.5
+Hospital 1,City 1,State 1,37594,"346 Main St, City 1, State 1",Appendectomy,44950,Surgery,9536,Uninsured,40,4.6
+Hospital 1,City 1,State 1,89939,"881 Main St, City 1, State 1",CT Scan,71260,Radiology,12536,Medicare,9,3
+Hospital 1,City 1,State 1,14964,"361 Main St, City 1, State 1",Physical Exam,99386,General,18554,Private,36,4
+Hospital 1,City 1,State 1,26542,"974 Main St, City 1, State 1",Knee Replacement,27447,Orthopedics,17664,Private,17,3.4
+Hospital 1,City 1,State 1,58684,"271 Main St, City 1, State 1",Cardiac Stress Test,93015,Cardiology,9170,Medicare,56,3.9
+Hospital 1,City 1,State 1,72898,"523 Main St, City 1, State 1",Colonoscopy,45378,Gastroenterology,7165,Private,30,3.5
+Hospital 1,City 1,State 1,49950,"981 Main St, City 1, State 1",Ultrasound,76801,Radiology,4776,Uninsured,59,2.8
+Hospital 2,City 2,State 2,87816,"632 Main St, City 2, State 2",MRI,70551,Radiology,11117,Private,41,3.5
+Hospital 2,City 2,State 2,25744,"616 Main St, City 2, State 2",X-Ray,71020,Radiology,17969,Private,52,4.2
+Hospital 2,City 2,State 2,37250,"138 Main St, City 2, State 2",Blood Test,85025,Laboratory,17847,Private,19,3.7
+Hospital 2,City 2,State 2,95471,"471 Main St, City 2, State 2",Appendectomy,44950,Surgery,12818,Private,21,2.9
+Hospital 2,City 2,State 2,43744,"350 Main St, City 2, State 2",CT Scan,71260,Radiology,5961,Private,19,3.9
+Hospital 2,City 2,State 2,15654,"519 Main St, City 2, State 2",Physical Exam,99386,General,16989,Medicare,10,3.1
+Hospital 2,City 2,State 2,46619,"316 Main St, City 2, State 2",Knee Replacement,27447,Orthopedics,17777,Medicare,48,2.7
+Hospital 2,City 2,State 2,12522,"274 Main St, City 2, State 2",Cardiac Stress Test,93015,Cardiology,1272,Uninsured,21,3.8
+Hospital 2,City 2,State 2,23966,"705 Main St, City 2, State 2",Colonoscopy,45378,Gastroenterology,3241,Medicare,17,2.6
+Hospital 2,City 2,State 2,95360,"636 Main St, City 2, State 2",Ultrasound,76801,Radiology,2040,Private,12,3.1
+Hospital 3,City 3,State 3,85185,"840 Main St, City 3, State 3",MRI,70551,Radiology,2050,Uninsured,43,2.9
+Hospital 3,City 3,State 3,56009,"579 Main St, City 3, State 3",X-Ray,71020,Radiology,11669,Medicare,43,3.8
+Hospital 3,City 3,State 3,67522,"801 Main St, City 3, State 3",Blood Test,85025,Laboratory,6290,Medicare,33,5
+Hospital 3,City 3,State 3,19667,"376 Main St, City 3, State 3",Appendectomy,44950,Surgery,2797,Medicare,35,3.3
+Hospital 3,City 3,State 3,76760,"443 Main St, City 3, State 3",CT Scan,71260,Radiology,14580,Medicare,21,4.2
+Hospital 3,City 3,State 3,81197,"327 Main St, City 3, State 3",Physical Exam,99386,General,7567,Uninsured,35,4.7
+Hospital 3,City 3,State 3,37541,"880 Main St, City 3, State 3",Knee Replacement,27447,Orthopedics,14963,Private,24,3
+Hospital 3,City 3,State 3,45623,"984 Main St, City 3, State 3",Cardiac Stress Test,93015,Cardiology,1287,Uninsured,5,3.2
+Hospital 3,City 3,State 3,44306,"117 Main St, City 3, State 3",Colonoscopy,45378,Gastroenterology,5982,Uninsured,7,4
+Hospital 3,City 3,State 3,44165,"417 Main St, City 3, State 3",Ultrasound,76801,Radiology,2238,Uninsured,43,2.7
+Hospital 4,City 4,State 4,81265,"363 Main St, City 4, State 4",MRI,70551,Radiology,15271,Private,15,2.8
+Hospital 4,City 4,State 4,86135,"927 Main St, City 4, State 4",X-Ray,71020,Radiology,2173,Private,32,3.2
+Hospital 4,City 4,State 4,42461,"509 Main St, City 4, State 4",Blood Test,85025,Laboratory,17315,Medicare,52,2.9
+Hospital 4,City 4,State 4,47956,"198 Main St, City 4, State 4",Appendectomy,44950,Surgery,15661,Uninsured,41,4.7
+Hospital 4,City 4,State 4,49458,"791 Main St, City 4, State 4",CT Scan,71260,Radiology,16182,Medicare,56,3.5
+Hospital 4,City 4,State 4,17895,"130 Main St, City 4, State 4",Physical Exam,99386,General,19684,Private,15,2.7
+Hospital 4,City 4,State 4,25751,"795 Main St, City 4, State 4",Knee Replacement,27447,Orthopedics,3837,Medicare,32,4
+Hospital 4,City 4,State 4,67407,"594 Main St, City 4, State 4",Cardiac Stress Test,93015,Cardiology,18643,Uninsured,47,3
+Hospital 4,City 4,State 4,12792,"788 Main St, City 4, State 4",Colonoscopy,45378,Gastroenterology,9004,Private,59,3.2
+Hospital 4,City 4,State 4,63005,"679 Main St, City 4, State 4",Ultrasound,76801,Radiology,16835,Private,11,4.5
+Hospital 5,City 5,State 5,55631,"193 Main St, City 5, State 5",MRI,70551,Radiology,16524,Uninsured,49,5
+Hospital 5,City 5,State 5,86209,"454 Main St, City 5, State 5",X-Ray,71020,Radiology,17591,Uninsured,10,4
+Hospital 5,City 5,State 5,87620,"711 Main St, City 5, State 5",Blood Test,85025,Laboratory,5199,Medicare,15,3.2
+Hospital 5,City 5,State 5,98078,"578 Main St, City 5, State 5",Appendectomy,44950,Surgery,9386,Uninsured,23,4
+Hospital 5,City 5,State 5,50452,"509 Main St, City 5, State 5",CT Scan,71260,Radiology,16106,Uninsured,6,4.5
+Hospital 5,City 5,State 5,60701,"189 Main St, City 5, State 5",Physical Exam,99386,General,18404,Private,35,4.9
+Hospital 5,City 5,State 5,53697,"501 Main St, City 5, State 5",Knee Replacement,27447,Orthopedics,7447,Medicare,12,2.9
+Hospital 5,City 5,State 5,67424,"332 Main St, City 5, State 5",Cardiac Stress Test,93015,Cardiology,7494,Uninsured,30,3.4
+Hospital 5,City 5,State 5,88500,"548 Main St, City 5, State 5",Colonoscopy,45378,Gastroenterology,14577,Private,6,3.2
+Hospital 5,City 5,State 5,33364,"531 Main St, City 5, State 5",Ultrasound,76801,Radiology,14250,Private,56,4.3
+Hospital 6,City 6,State 6,31842,"791 Main St, City 6, State 6",MRI,70551,Radiology,1215,Private,38,4.9
+Hospital 6,City 6,State 6,36233,"536 Main St, City 6, State 6",X-Ray,71020,Radiology,8858,Private,7,3
+Hospital 6,City 6,State 6,39848,"986 Main St, City 6, State 6",Blood Test,85025,Laboratory,17950,Private,24,4.7
+Hospital 6,City 6,State 6,13029,"930 Main St, City 6, State 6",Appendectomy,44950,Surgery,6321,Medicare,17,3.8
+Hospital 6,City 6,State 6,93705,"354 Main St, City 6, State 6",CT Scan,71260,Radiology,1312,Uninsured,46,4.2
+Hospital 6,City 6,State 6,76947,"984 Main St, City 6, State 6",Physical Exam,99386,General,365,Private,8,3.5
+Hospital 6,City 6,State 6,86063,"218 Main St, City 6, State 6",Knee Replacement,27447,Orthopedics,4822,Private,41,2.9
+Hospital 6,City 6,State 6,31326,"347 Main St, City 6, State 6",Cardiac Stress Test,93015,Cardiology,5487,Uninsured,31,2.6
+Hospital 6,City 6,State 6,32053,"228 Main St, City 6, State 6",Colonoscopy,45378,Gastroenterology,18070,Private,40,4.4
+Hospital 6,City 6,State 6,76388,"412 Main St, City 6, State 6",Ultrasound,76801,Radiology,8380,Medicare,54,4
+Hospital 7,City 7,State 7,27892,"920 Main St, City 7, State 7",MRI,70551,Radiology,4050,Medicare,29,2.9
+Hospital 7,City 7,State 7,58005,"120 Main St, City 7, State 7",X-Ray,71020,Radiology,7828,Uninsured,28,4.1
+Hospital 7,City 7,State 7,26933,"590 Main St, City 7, State 7",Blood Test,85025,Laboratory,12399,Private,8,4.3
+Hospital 7,City 7,State 7,49098,"395 Main St, City 7, State 7",Appendectomy,44950,Surgery,17112,Uninsured,51,4.6
+Hospital 7,City 7,State 7,96212,"697 Main St, City 7, State 7",CT Scan,71260,Radiology,8139,Medicare,48,3.7
+Hospital 7,City 7,State 7,32898,"155 Main St, City 7, State 7",Physical Exam,99386,General,5555,Uninsured,41,3.7
+Hospital 7,City 7,State 7,25162,"843 Main St, City 7, State 7",Knee Replacement,27447,Orthopedics,5430,Private,20,4.1
+Hospital 7,City 7,State 7,84680,"788 Main St, City 7, State 7",Cardiac Stress Test,93015,Cardiology,11127,Medicare,54,4.9
+Hospital 7,City 7,State 7,30703,"221 Main St, City 7, State 7",Colonoscopy,45378,Gastroenterology,6428,Uninsured,8,4.1
+Hospital 7,City 7,State 7,80341,"484 Main St, City 7, State 7",Ultrasound,76801,Radiology,19083,Medicare,51,2.8
+Hospital 8,City 8,State 8,86729,"492 Main St, City 8, State 8",MRI,70551,Radiology,6523,Private,49,4.6
+Hospital 8,City 8,State 8,72477,"836 Main St, City 8, State 8",X-Ray,71020,Radiology,7166,Medicare,10,3.2
+Hospital 8,City 8,State 8,76562,"886 Main St, City 8, State 8",Blood Test,85025,Laboratory,10482,Private,5,3.1
+Hospital 8,City 8,State 8,43112,"723 Main St, City 8, State 8",Appendectomy,44950,Surgery,4868,Medicare,27,3.7
+Hospital 8,City 8,State 8,38082,"464 Main St, City 8, State 8",CT Scan,71260,Radiology,16714,Private,24,2.6
+Hospital 8,City 8,State 8,54140,"691 Main St, City 8, State 8",Physical Exam,99386,General,8226,Uninsured,58,3.1
+Hospital 8,City 8,State 8,78187,"129 Main St, City 8, State 8",Knee Replacement,27447,Orthopedics,17372,Private,55,3.9
+Hospital 8,City 8,State 8,74030,"170 Main St, City 8, State 8",Cardiac Stress Test,93015,Cardiology,7065,Private,35,4.1
+Hospital 8,City 8,State 8,39857,"743 Main St, City 8, State 8",Colonoscopy,45378,Gastroenterology,4726,Medicare,47,5
+Hospital 8,City 8,State 8,12187,"116 Main St, City 8, State 8",Ultrasound,76801,Radiology,6743,Medicare,59,4.8
+Hospital 9,City 9,State 9,60264,"477 Main St, City 9, State 9",MRI,70551,Radiology,12323,Uninsured,6,4.7
+Hospital 9,City 9,State 9,13866,"984 Main St, City 9, State 9",X-Ray,71020,Radiology,1765,Private,31,4.8
+Hospital 9,City 9,State 9,53016,"143 Main St, City 9, State 9",Blood Test,85025,Laboratory,10625,Private,43,2.9
+Hospital 9,City 9,State 9,93993,"408 Main St, City 9, State 9",Appendectomy,44950,Surgery,11364,Private,53,4.6
+Hospital 9,City 9,State 9,49999,"197 Main St, City 9, State 9",CT Scan,71260,Radiology,14123,Medicare,45,4.4
+Hospital 9,City 9,State 9,36555,"527 Main St, City 9, State 9",Physical Exam,99386,General,19823,Uninsured,25,2.6
+Hospital 9,City 9,State 9,62562,"523 Main St, City 9, State 9",Knee Replacement,27447,Orthopedics,6868,Private,47,4.8
+Hospital 9,City 9,State 9,59898,"435 Main St, City 9, State 9",Cardiac Stress Test,93015,Cardiology,13763,Medicare,33,2.8
+Hospital 9,City 9,State 9,36276,"817 Main St, City 9, State 9",Colonoscopy,45378,Gastroenterology,17894,Medicare,22,2.5
+Hospital 9,City 9,State 9,26508,"922 Main St, City 9, State 9",Ultrasound,76801,Radiology,13051,Uninsured,55,4.4
+Hospital 10,City 10,State 10,74389,"588 Main St, City 10, State 10",MRI,70551,Radiology,9883,Medicare,22,3.5
+Hospital 10,City 10,State 10,54735,"758 Main St, City 10, State 10",X-Ray,71020,Radiology,1020,Medicare,10,3.1
+Hospital 10,City 10,State 10,86338,"891 Main St, City 10, State 10",Blood Test,85025,Laboratory,3337,Uninsured,28,3.6
+Hospital 10,City 10,State 10,64050,"300 Main St, City 10, State 10",Appendectomy,44950,Surgery,306,Medicare,16,4.6
+Hospital 10,City 10,State 10,31169,"753 Main St, City 10, State 10",CT Scan,71260,Radiology,2157,Medicare,28,4.6
+Hospital 10,City 10,State 10,83166,"583 Main St, City 10, State 10",Physical Exam,99386,General,18018,Uninsured,56,3.3
+Hospital 10,City 10,State 10,29403,"386 Main St, City 10, State 10",Knee Replacement,27447,Orthopedics,7895,Uninsured,14,4.9
+Hospital 10,City 10,State 10,22774,"274 Main St, City 10, State 10",Cardiac Stress Test,93015,Cardiology,17054,Private,30,3.7
+Hospital 10,City 10,State 10,41861,"839 Main St, City 10, State 10",Colonoscopy,45378,Gastroenterology,1741,Private,57,3.6
+Hospital 10,City 10,State 10,54426,"924 Main St, City 10, State 10",Ultrasound,76801,Radiology,3999,Private,37,4.4
+Hospital 11,City 11,State 1,70642,"583 Main St, City 11, State 1",MRI,70551,Radiology,3986,Medicare,21,5
+Hospital 11,City 11,State 1,30143,"600 Main St, City 11, State 1",X-Ray,71020,Radiology,10483,Uninsured,53,4.8
+Hospital 11,City 11,State 1,92097,"484 Main St, City 11, State 1",Blood Test,85025,Laboratory,6761,Uninsured,16,3.6
+Hospital 11,City 11,State 1,34923,"626 Main St, City 11, State 1",Appendectomy,44950,Surgery,7406,Medicare,28,3.3
+Hospital 11,City 11,State 1,35964,"816 Main St, City 11, State 1",CT Scan,71260,Radiology,3224,Private,47,4.8
+Hospital 11,City 11,State 1,12050,"340 Main St, City 11, State 1",Physical Exam,99386,General,699,Uninsured,11,3.2
+Hospital 11,City 11,State 1,47747,"731 Main St, City 11, State 1",Knee Replacement,27447,Orthopedics,6076,Uninsured,22,4.8
+Hospital 11,City 11,State 1,97637,"926 Main St, City 11, State 1",Cardiac Stress Test,93015,Cardiology,2502,Medicare,35,3.9
+Hospital 11,City 11,State 1,81531,"357 Main St, City 11, State 1",Colonoscopy,45378,Gastroenterology,13304,Medicare,48,3.8
+Hospital 11,City 11,State 1,41454,"800 Main St, City 11, State 1",Ultrasound,76801,Radiology,8316,Private,38,3.9
+Hospital 12,City 12,State 2,21991,"653 Main St, City 12, State 2",MRI,70551,Radiology,15554,Medicare,43,3.8
+Hospital 12,City 12,State 2,28061,"135 Main St, City 12, State 2",X-Ray,71020,Radiology,9382,Private,17,3.9
+Hospital 12,City 12,State 2,20282,"154 Main St, City 12, State 2",Blood Test,85025,Laboratory,6411,Private,50,4.7
+Hospital 12,City 12,State 2,95839,"403 Main St, City 12, State 2",Appendectomy,44950,Surgery,12917,Private,23,4.2
+Hospital 12,City 12,State 2,20878,"997 Main St, City 12, State 2",CT Scan,71260,Radiology,16748,Medicare,15,3.4
+Hospital 12,City 12,State 2,12630,"844 Main St, City 12, State 2",Physical Exam,99386,General,9108,Medicare,30,3.2
+Hospital 12,City 12,State 2,81119,"705 Main St, City 12, State 2",Knee Replacement,27447,Orthopedics,13034,Uninsured,15,4
+Hospital 12,City 12,State 2,14644,"331 Main St, City 12, State 2",Cardiac Stress Test,93015,Cardiology,807,Medicare,24,4.7
+Hospital 12,City 12,State 2,25443,"269 Main St, City 12, State 2",Colonoscopy,45378,Gastroenterology,1312,Private,43,3.1
+Hospital 12,City 12,State 2,29914,"655 Main St, City 12, State 2",Ultrasound,76801,Radiology,10388,Private,17,4.8
+Hospital 13,City 13,State 3,88144,"533 Main St, City 13, State 3",MRI,70551,Radiology,2167,Uninsured,7,3.9
+Hospital 13,City 13,State 3,78311,"603 Main St, City 13, State 3",X-Ray,71020,Radiology,4635,Medicare,10,3.7
+Hospital 13,City 13,State 3,47172,"915 Main St, City 13, State 3",Blood Test,85025,Laboratory,5081,Private,13,3.1
+Hospital 13,City 13,State 3,22830,"544 Main St, City 13, State 3",Appendectomy,44950,Surgery,10095,Private,14,3.4
+Hospital 13,City 13,State 3,39324,"599 Main St, City 13, State 3",CT Scan,71260,Radiology,19934,Medicare,43,4.6
+Hospital 13,City 13,State 3,15428,"952 Main St, City 13, State 3",Physical Exam,99386,General,19550,Private,37,2.7
+Hospital 13,City 13,State 3,54254,"155 Main St, City 13, State 3",Knee Replacement,27447,Orthopedics,2507,Private,26,2.6
+Hospital 13,City 13,State 3,93502,"777 Main St, City 13, State 3",Cardiac Stress Test,93015,Cardiology,5360,Uninsured,58,4.5
+Hospital 13,City 13,State 3,48918,"173 Main St, City 13, State 3",Colonoscopy,45378,Gastroenterology,14920,Medicare,40,2.6
+Hospital 13,City 13,State 3,77541,"530 Main St, City 13, State 3",Ultrasound,76801,Radiology,15416,Medicare,10,4.3
+Hospital 14,City 14,State 4,37438,"818 Main St, City 14, State 4",MRI,70551,Radiology,6646,Private,33,4.9
+Hospital 14,City 14,State 4,85934,"630 Main St, City 14, State 4",X-Ray,71020,Radiology,13340,Uninsured,27,3.1
+Hospital 14,City 14,State 4,81519,"637 Main St, City 14, State 4",Blood Test,85025,Laboratory,13586,Private,51,4.4
+Hospital 14,City 14,State 4,71340,"347 Main St, City 14, State 4",Appendectomy,44950,Surgery,17263,Uninsured,16,3.8
+Hospital 14,City 14,State 4,93998,"722 Main St, City 14, State 4",CT Scan,71260,Radiology,737,Medicare,50,3
+Hospital 14,City 14,State 4,94014,"286 Main St, City 14, State 4",Physical Exam,99386,General,18930,Private,58,4.7
+Hospital 14,City 14,State 4,92286,"794 Main St, City 14, State 4",Knee Replacement,27447,Orthopedics,13261,Uninsured,47,3.4
+Hospital 14,City 14,State 4,85304,"122 Main St, City 14, State 4",Cardiac Stress Test,93015,Cardiology,14522,Private,18,3.9
+Hospital 14,City 14,State 4,99220,"258 Main St, City 14, State 4",Colonoscopy,45378,Gastroenterology,11328,Private,46,4.6
+Hospital 14,City 14,State 4,45132,"801 Main St, City 14, State 4",Ultrasound,76801,Radiology,15800,Medicare,20,4.6
+Hospital 15,City 15,State 5,11900,"638 Main St, City 15, State 5",MRI,70551,Radiology,16540,Uninsured,54,3.4
+Hospital 15,City 15,State 5,85280,"479 Main St, City 15, State 5",X-Ray,71020,Radiology,2640,Uninsured,37,2.7
+Hospital 15,City 15,State 5,17166,"133 Main St, City 15, State 5",Blood Test,85025,Laboratory,14110,Private,43,3.7
+Hospital 15,City 15,State 5,82552,"209 Main St, City 15, State 5",Appendectomy,44950,Surgery,15715,Medicare,26,3.4
+Hospital 15,City 15,State 5,67191,"933 Main St, City 15, State 5",CT Scan,71260,Radiology,12134,Private,6,3.5
+Hospital 15,City 15,State 5,99828,"273 Main St, City 15, State 5",Physical Exam,99386,General,9082,Private,59,3.5
+Hospital 15,City 15,State 5,76743,"616 Main St, City 15, State 5",Knee Replacement,27447,Orthopedics,11928,Medicare,17,3.4
+Hospital 15,City 15,State 5,70267,"592 Main St, City 15, State 5",Cardiac Stress Test,93015,Cardiology,9078,Medicare,51,4.6
+Hospital 15,City 15,State 5,92322,"395 Main St, City 15, State 5",Colonoscopy,45378,Gastroenterology,5295,Private,28,3.3
+Hospital 15,City 15,State 5,62444,"466 Main St, City 15, State 5",Ultrasound,76801,Radiology,10341,Uninsured,41,3.6
+Hospital 16,City 16,State 6,40779,"195 Main St, City 16, State 6",MRI,70551,Radiology,2046,Private,45,2.6
+Hospital 16,City 16,State 6,50768,"802 Main St, City 16, State 6",X-Ray,71020,Radiology,18847,Medicare,6,3
+Hospital 16,City 16,State 6,38148,"626 Main St, City 16, State 6",Blood Test,85025,Laboratory,19515,Uninsured,59,3.9
+Hospital 16,City 16,State 6,59639,"418 Main St, City 16, State 6",Appendectomy,44950,Surgery,3464,Uninsured,5,2.8
+Hospital 16,City 16,State 6,41777,"584 Main St, City 16, State 6",CT Scan,71260,Radiology,9465,Private,37,2.9
+Hospital 16,City 16,State 6,93055,"952 Main St, City 16, State 6",Physical Exam,99386,General,1941,Private,47,3.8
+Hospital 16,City 16,State 6,82979,"550 Main St, City 16, State 6",Knee Replacement,27447,Orthopedics,398,Private,45,2.7
+Hospital 16,City 16,State 6,41447,"236 Main St, City 16, State 6",Cardiac Stress Test,93015,Cardiology,11047,Medicare,19,4.5
+Hospital 16,City 16,State 6,15293,"520 Main St, City 16, State 6",Colonoscopy,45378,Gastroenterology,542,Private,56,3.7
+Hospital 16,City 16,State 6,31539,"120 Main St, City 16, State 6",Ultrasound,76801,Radiology,534,Medicare,53,3.3
+Hospital 17,City 17,State 7,48216,"307 Main St, City 17, State 7",MRI,70551,Radiology,3486,Uninsured,17,4.8
+Hospital 17,City 17,State 7,77430,"189 Main St, City 17, State 7",X-Ray,71020,Radiology,7505,Medicare,46,4
+Hospital 17,City 17,State 7,31775,"483 Main St, City 17, State 7",Blood Test,85025,Laboratory,19145,Uninsured,45,2.6
+Hospital 17,City 17,State 7,37958,"946 Main St, City 17, State 7",Appendectomy,44950,Surgery,9378,Medicare,5,4.1
+Hospital 17,City 17,State 7,59390,"813 Main St, City 17, State 7",CT Scan,71260,Radiology,12923,Private,55,4.4
+Hospital 17,City 17,State 7,54453,"668 Main St, City 17, State 7",Physical Exam,99386,General,3704,Uninsured,42,4.3
+Hospital 17,City 17,State 7,18089,"385 Main St, City 17, State 7",Knee Replacement,27447,Orthopedics,6096,Private,9,4.8
+Hospital 17,City 17,State 7,12775,"955 Main St, City 17, State 7",Cardiac Stress Test,93015,Cardiology,1447,Private,45,5
+Hospital 17,City 17,State 7,39748,"822 Main St, City 17, State 7",Colonoscopy,45378,Gastroenterology,3334,Medicare,51,4.3
+Hospital 17,City 17,State 7,38566,"418 Main St, City 17, State 7",Ultrasound,76801,Radiology,18846,Uninsured,8,2.7
+Hospital 18,City 18,State 8,18695,"104 Main St, City 18, State 8",MRI,70551,Radiology,5746,Uninsured,27,3.2
+Hospital 18,City 18,State 8,18923,"875 Main St, City 18, State 8",X-Ray,71020,Radiology,11458,Uninsured,21,4.5
+Hospital 18,City 18,State 8,91683,"907 Main St, City 18, State 8",Blood Test,85025,Laboratory,17093,Medicare,44,2.6
+Hospital 18,City 18,State 8,67541,"448 Main St, City 18, State 8",Appendectomy,44950,Surgery,3963,Medicare,33,3.6
+Hospital 18,City 18,State 8,96870,"106 Main St, City 18, State 8",CT Scan,71260,Radiology,8082,Private,9,4.4
+Hospital 18,City 18,State 8,61088,"891 Main St, City 18, State 8",Physical Exam,99386,General,18518,Private,47,2.8
+Hospital 18,City 18,State 8,56458,"294 Main St, City 18, State 8",Knee Replacement,27447,Orthopedics,4764,Private,12,4.8
+Hospital 18,City 18,State 8,95636,"742 Main St, City 18, State 8",Cardiac Stress Test,93015,Cardiology,12065,Medicare,32,3.1
+Hospital 18,City 18,State 8,96270,"873 Main St, City 18, State 8",Colonoscopy,45378,Gastroenterology,953,Uninsured,16,3.7
+Hospital 18,City 18,State 8,36220,"891 Main St, City 18, State 8",Ultrasound,76801,Radiology,3832,Uninsured,51,3.4
+Hospital 19,City 19,State 9,89010,"550 Main St, City 19, State 9",MRI,70551,Radiology,9335,Uninsured,50,3.8
+Hospital 19,City 19,State 9,54495,"750 Main St, City 19, State 9",X-Ray,71020,Radiology,1629,Medicare,37,4.5
+Hospital 19,City 19,State 9,70567,"984 Main St, City 19, State 9",Blood Test,85025,Laboratory,14381,Uninsured,18,3.5
+Hospital 19,City 19,State 9,18087,"313 Main St, City 19, State 9",Appendectomy,44950,Surgery,8436,Uninsured,10,3.3
+Hospital 19,City 19,State 9,19868,"719 Main St, City 19, State 9",CT Scan,71260,Radiology,19346,Uninsured,30,5
+Hospital 19,City 19,State 9,31124,"368 Main St, City 19, State 9",Physical Exam,99386,General,14185,Medicare,26,4.4
+Hospital 19,City 19,State 9,91860,"352 Main St, City 19, State 9",Knee Replacement,27447,Orthopedics,4074,Uninsured,8,4.8
+Hospital 19,City 19,State 9,53666,"736 Main St, City 19, State 9",Cardiac Stress Test,93015,Cardiology,14095,Private,26,4.8
+Hospital 19,City 19,State 9,83738,"697 Main St, City 19, State 9",Colonoscopy,45378,Gastroenterology,16752,Medicare,52,2.7
+Hospital 19,City 19,State 9,68481,"899 Main St, City 19, State 9",Ultrasound,76801,Radiology,19653,Medicare,46,3.1
+Hospital 20,City 20,State 10,86733,"727 Main St, City 20, State 10",MRI,70551,Radiology,15694,Medicare,17,4.6
+Hospital 20,City 20,State 10,18216,"491 Main St, City 20, State 10",X-Ray,71020,Radiology,15941,Medicare,8,3.7
+Hospital 20,City 20,State 10,32824,"222 Main St, City 20, State 10",Blood Test,85025,Laboratory,11857,Medicare,19,4.7
+Hospital 20,City 20,State 10,61950,"113 Main St, City 20, State 10",Appendectomy,44950,Surgery,9991,Medicare,34,4.6
+Hospital 20,City 20,State 10,99951,"113 Main St, City 20, State 10",CT Scan,71260,Radiology,2083,Medicare,36,3
+Hospital 20,City 20,State 10,79108,"157 Main St, City 20, State 10",Physical Exam,99386,General,11289,Private,54,3.6
+Hospital 20,City 20,State 10,41087,"441 Main St, City 20, State 10",Knee Replacement,27447,Orthopedics,15352,Medicare,16,2.7
+Hospital 20,City 20,State 10,18842,"249 Main St, City 20, State 10",Cardiac Stress Test,93015,Cardiology,6196,Medicare,22,4.8
+Hospital 20,City 20,State 10,54743,"230 Main St, City 20, State 10",Colonoscopy,45378,Gastroenterology,9529,Private,13,3
+Hospital 20,City 20,State 10,92766,"731 Main St, City 20, State 10",Ultrasound,76801,Radiology,11281,Uninsured,24,3.1
+Hospital 21,City 1,State 1,89723,"784 Main St, City 1, State 1",MRI,70551,Radiology,2612,Uninsured,16,4.3
+Hospital 21,City 1,State 1,94298,"466 Main St, City 1, State 1",X-Ray,71020,Radiology,16231,Uninsured,23,3.9
+Hospital 21,City 1,State 1,68217,"761 Main St, City 1, State 1",Blood Test,85025,Laboratory,14332,Uninsured,9,3.9
+Hospital 21,City 1,State 1,67695,"263 Main St, City 1, State 1",Appendectomy,44950,Surgery,17541,Medicare,20,3.5
+Hospital 21,City 1,State 1,90431,"375 Main St, City 1, State 1",CT Scan,71260,Radiology,3140,Medicare,45,4.6
+Hospital 21,City 1,State 1,56700,"119 Main St, City 1, State 1",Physical Exam,99386,General,8315,Uninsured,16,3.9
+Hospital 21,City 1,State 1,34284,"719 Main St, City 1, State 1",Knee Replacement,27447,Orthopedics,4601,Uninsured,48,3.3
+Hospital 21,City 1,State 1,88452,"247 Main St, City 1, State 1",Cardiac Stress Test,93015,Cardiology,11557,Medicare,48,3.3
+Hospital 21,City 1,State 1,39065,"405 Main St, City 1, State 1",Colonoscopy,45378,Gastroenterology,4371,Medicare,26,2.6
+Hospital 21,City 1,State 1,37932,"929 Main St, City 1, State 1",Ultrasound,76801,Radiology,5938,Medicare,31,4.8
+Hospital 22,City 2,State 2,14405,"139 Main St, City 2, State 2",MRI,70551,Radiology,11469,Uninsured,53,3.6
+Hospital 22,City 2,State 2,97300,"427 Main St, City 2, State 2",X-Ray,71020,Radiology,584,Private,20,2.8
+Hospital 22,City 2,State 2,99836,"504 Main St, City 2, State 2",Blood Test,85025,Laboratory,522,Medicare,29,2.7
+Hospital 22,City 2,State 2,32714,"289 Main St, City 2, State 2",Appendectomy,44950,Surgery,5014,Uninsured,34,2.7
+Hospital 22,City 2,State 2,96338,"427 Main St, City 2, State 2",CT Scan,71260,Radiology,2238,Medicare,46,4.5
+Hospital 22,City 2,State 2,98139,"943 Main St, City 2, State 2",Physical Exam,99386,General,3268,Private,5,5
+Hospital 22,City 2,State 2,65765,"442 Main St, City 2, State 2",Knee Replacement,27447,Orthopedics,11540,Medicare,52,4.4
+Hospital 22,City 2,State 2,23041,"917 Main St, City 2, State 2",Cardiac Stress Test,93015,Cardiology,8798,Private,11,3.5
+Hospital 22,City 2,State 2,45509,"372 Main St, City 2, State 2",Colonoscopy,45378,Gastroenterology,11915,Medicare,44,4.3
+Hospital 22,City 2,State 2,39091,"805 Main St, City 2, State 2",Ultrasound,76801,Radiology,9199,Medicare,5,4.2
+Hospital 23,City 3,State 3,60220,"570 Main St, City 3, State 3",MRI,70551,Radiology,18105,Private,55,4.1
+Hospital 23,City 3,State 3,62414,"354 Main St, City 3, State 3",X-Ray,71020,Radiology,13317,Uninsured,19,3.7
+Hospital 23,City 3,State 3,84956,"326 Main St, City 3, State 3",Blood Test,85025,Laboratory,3706,Uninsured,49,4.7
+Hospital 23,City 3,State 3,59170,"858 Main St, City 3, State 3",Appendectomy,44950,Surgery,11696,Uninsured,28,4.5
+Hospital 23,City 3,State 3,13177,"638 Main St, City 3, State 3",CT Scan,71260,Radiology,6382,Private,16,4.1
+Hospital 23,City 3,State 3,41417,"184 Main St, City 3, State 3",Physical Exam,99386,General,4392,Medicare,30,3.5
+Hospital 23,City 3,State 3,68675,"427 Main St, City 3, State 3",Knee Replacement,27447,Orthopedics,7507,Uninsured,8,3.3
+Hospital 23,City 3,State 3,86845,"189 Main St, City 3, State 3",Cardiac Stress Test,93015,Cardiology,6443,Private,44,3.2
+Hospital 23,City 3,State 3,16216,"430 Main St, City 3, State 3",Colonoscopy,45378,Gastroenterology,5305,Medicare,30,3.1
+Hospital 23,City 3,State 3,41925,"563 Main St, City 3, State 3",Ultrasound,76801,Radiology,13367,Medicare,27,2.6
+Hospital 24,City 4,State 4,77306,"449 Main St, City 4, State 4",MRI,70551,Radiology,3615,Private,11,3.1
+Hospital 24,City 4,State 4,42918,"437 Main St, City 4, State 4",X-Ray,71020,Radiology,6864,Medicare,56,3.3
+Hospital 24,City 4,State 4,15587,"892 Main St, City 4, State 4",Blood Test,85025,Laboratory,13602,Uninsured,27,3.1
+Hospital 24,City 4,State 4,87684,"502 Main St, City 4, State 4",Appendectomy,44950,Surgery,6360,Uninsured,13,2.6
+Hospital 24,City 4,State 4,86876,"868 Main St, City 4, State 4",CT Scan,71260,Radiology,19130,Private,11,3.6
+Hospital 24,City 4,State 4,33349,"669 Main St, City 4, State 4",Physical Exam,99386,General,12890,Private,57,2.6
+Hospital 24,City 4,State 4,94437,"206 Main St, City 4, State 4",Knee Replacement,27447,Orthopedics,17678,Medicare,23,4.1
+Hospital 24,City 4,State 4,27339,"291 Main St, City 4, State 4",Cardiac Stress Test,93015,Cardiology,7273,Uninsured,29,3.1
+Hospital 24,City 4,State 4,51160,"541 Main St, City 4, State 4",Colonoscopy,45378,Gastroenterology,1325,Uninsured,8,2.7
+Hospital 24,City 4,State 4,41231,"114 Main St, City 4, State 4",Ultrasound,76801,Radiology,2198,Uninsured,27,4.9
+Hospital 25,City 5,State 5,22553,"333 Main St, City 5, State 5",MRI,70551,Radiology,8911,Uninsured,33,4.8
+Hospital 25,City 5,State 5,49132,"388 Main St, City 5, State 5",X-Ray,71020,Radiology,949,Uninsured,45,3.2
+Hospital 25,City 5,State 5,69188,"393 Main St, City 5, State 5",Blood Test,85025,Laboratory,7794,Private,36,4.2
+Hospital 25,City 5,State 5,78234,"718 Main St, City 5, State 5",Appendectomy,44950,Surgery,11308,Medicare,56,4.4
+Hospital 25,City 5,State 5,79260,"897 Main St, City 5, State 5",CT Scan,71260,Radiology,2747,Private,35,2.6
+Hospital 25,City 5,State 5,36868,"100 Main St, City 5, State 5",Physical Exam,99386,General,2576,Uninsured,42,3.8
+Hospital 25,City 5,State 5,78180,"649 Main St, City 5, State 5",Knee Replacement,27447,Orthopedics,2278,Uninsured,14,4
+Hospital 25,City 5,State 5,29258,"320 Main St, City 5, State 5",Cardiac Stress Test,93015,Cardiology,12458,Uninsured,7,3.7
+Hospital 25,City 5,State 5,72501,"487 Main St, City 5, State 5",Colonoscopy,45378,Gastroenterology,13112,Medicare,9,3.8
+Hospital 25,City 5,State 5,48409,"529 Main St, City 5, State 5",Ultrasound,76801,Radiology,18707,Uninsured,52,3.8
+Hospital 26,City 6,State 6,98556,"821 Main St, City 6, State 6",MRI,70551,Radiology,4786,Medicare,30,2.7
+Hospital 26,City 6,State 6,62489,"249 Main St, City 6, State 6",X-Ray,71020,Radiology,9183,Uninsured,9,3.4
+Hospital 26,City 6,State 6,37615,"247 Main St, City 6, State 6",Blood Test,85025,Laboratory,17544,Uninsured,21,3.4
+Hospital 26,City 6,State 6,52685,"351 Main St, City 6, State 6",Appendectomy,44950,Surgery,9611,Medicare,13,3.7
+Hospital 26,City 6,State 6,44702,"299 Main St, City 6, State 6",CT Scan,71260,Radiology,16946,Uninsured,8,4.9
+Hospital 26,City 6,State 6,52668,"971 Main St, City 6, State 6",Physical Exam,99386,General,16894,Uninsured,20,3.7
+Hospital 26,City 6,State 6,42710,"648 Main St, City 6, State 6",Knee Replacement,27447,Orthopedics,3656,Medicare,50,4.9
+Hospital 26,City 6,State 6,58983,"627 Main St, City 6, State 6",Cardiac Stress Test,93015,Cardiology,15589,Medicare,45,2.7
+Hospital 26,City 6,State 6,21645,"659 Main St, City 6, State 6",Colonoscopy,45378,Gastroenterology,12765,Uninsured,43,4.6
+Hospital 26,City 6,State 6,33662,"306 Main St, City 6, State 6",Ultrasound,76801,Radiology,18249,Medicare,44,4.7
+Hospital 27,City 7,State 7,17792,"844 Main St, City 7, State 7",MRI,70551,Radiology,18211,Medicare,7,2.7
+Hospital 27,City 7,State 7,47904,"762 Main St, City 7, State 7",X-Ray,71020,Radiology,3023,Medicare,33,3.3
+Hospital 27,City 7,State 7,35588,"761 Main St, City 7, State 7",Blood Test,85025,Laboratory,15902,Medicare,41,2.7
+Hospital 27,City 7,State 7,66370,"892 Main St, City 7, State 7",Appendectomy,44950,Surgery,10086,Private,25,5
+Hospital 27,City 7,State 7,30706,"441 Main St, City 7, State 7",CT Scan,71260,Radiology,339,Medicare,24,3.4
+Hospital 27,City 7,State 7,29959,"970 Main St, City 7, State 7",Physical Exam,99386,General,7281,Medicare,36,3.9
+Hospital 27,City 7,State 7,81660,"241 Main St, City 7, State 7",Knee Replacement,27447,Orthopedics,3399,Uninsured,52,3.2
+Hospital 27,City 7,State 7,12702,"227 Main St, City 7, State 7",Cardiac Stress Test,93015,Cardiology,400,Private,11,2.7
+Hospital 27,City 7,State 7,62821,"613 Main St, City 7, State 7",Colonoscopy,45378,Gastroenterology,19981,Medicare,21,4.9
+Hospital 27,City 7,State 7,17521,"900 Main St, City 7, State 7",Ultrasound,76801,Radiology,17511,Medicare,15,4.8
+Hospital 28,City 8,State 8,10571,"269 Main St, City 8, State 8",MRI,70551,Radiology,4364,Medicare,48,4.7
+Hospital 28,City 8,State 8,16530,"208 Main St, City 8, State 8",X-Ray,71020,Radiology,18344,Private,21,5
+Hospital 28,City 8,State 8,79324,"264 Main St, City 8, State 8",Blood Test,85025,Laboratory,4352,Medicare,52,3.9
+Hospital 28,City 8,State 8,40759,"799 Main St, City 8, State 8",Appendectomy,44950,Surgery,5797,Medicare,26,4.1
+Hospital 28,City 8,State 8,98164,"659 Main St, City 8, State 8",CT Scan,71260,Radiology,11418,Medicare,15,3.5
+Hospital 28,City 8,State 8,53546,"791 Main St, City 8, State 8",Physical Exam,99386,General,13359,Medicare,7,4.2
+Hospital 28,City 8,State 8,77097,"395 Main St, City 8, State 8",Knee Replacement,27447,Orthopedics,5584,Uninsured,5,3.6
+Hospital 28,City 8,State 8,58238,"816 Main St, City 8, State 8",Cardiac Stress Test,93015,Cardiology,7782,Private,13,2.7
+Hospital 28,City 8,State 8,95718,"152 Main St, City 8, State 8",Colonoscopy,45378,Gastroenterology,7154,Private,39,3
+Hospital 28,City 8,State 8,25493,"818 Main St, City 8, State 8",Ultrasound,76801,Radiology,12597,Uninsured,5,4.5
+Hospital 29,City 9,State 9,46050,"170 Main St, City 9, State 9",MRI,70551,Radiology,16014,Uninsured,46,3.5
+Hospital 29,City 9,State 9,67137,"230 Main St, City 9, State 9",X-Ray,71020,Radiology,15354,Medicare,52,4.8
+Hospital 29,City 9,State 9,70295,"144 Main St, City 9, State 9",Blood Test,85025,Laboratory,12423,Uninsured,22,3.3
+Hospital 29,City 9,State 9,70334,"598 Main St, City 9, State 9",Appendectomy,44950,Surgery,16019,Private,38,4.7
+Hospital 29,City 9,State 9,53652,"161 Main St, City 9, State 9",CT Scan,71260,Radiology,5059,Private,43,4.3
+Hospital 29,City 9,State 9,99330,"317 Main St, City 9, State 9",Physical Exam,99386,General,19881,Medicare,36,3.7
+Hospital 29,City 9,State 9,40395,"322 Main St, City 9, State 9",Knee Replacement,27447,Orthopedics,6361,Uninsured,33,4.2
+Hospital 29,City 9,State 9,56285,"281 Main St, City 9, State 9",Cardiac Stress Test,93015,Cardiology,10051,Uninsured,56,3.4
+Hospital 29,City 9,State 9,94889,"768 Main St, City 9, State 9",Colonoscopy,45378,Gastroenterology,17424,Uninsured,36,3.5
+Hospital 29,City 9,State 9,53498,"990 Main St, City 9, State 9",Ultrasound,76801,Radiology,17440,Uninsured,12,4.1
+Hospital 30,City 10,State 10,26503,"535 Main St, City 10, State 10",MRI,70551,Radiology,3218,Private,31,4.9
+Hospital 30,City 10,State 10,85585,"472 Main St, City 10, State 10",X-Ray,71020,Radiology,10487,Private,8,2.7
+Hospital 30,City 10,State 10,33867,"380 Main St, City 10, State 10",Blood Test,85025,Laboratory,16510,Private,52,3.5
+Hospital 30,City 10,State 10,92741,"132 Main St, City 10, State 10",Appendectomy,44950,Surgery,3543,Medicare,9,3.8
+Hospital 30,City 10,State 10,12769,"626 Main St, City 10, State 10",CT Scan,71260,Radiology,17738,Uninsured,44,3.7
+Hospital 30,City 10,State 10,21580,"887 Main St, City 10, State 10",Physical Exam,99386,General,3799,Medicare,7,4.1
+Hospital 30,City 10,State 10,57158,"577 Main St, City 10, State 10",Knee Replacement,27447,Orthopedics,5867,Private,44,2.5
+Hospital 30,City 10,State 10,90070,"196 Main St, City 10, State 10",Cardiac Stress Test,93015,Cardiology,12948,Private,56,3.9
+Hospital 30,City 10,State 10,90339,"644 Main St, City 10, State 10",Colonoscopy,45378,Gastroenterology,136,Medicare,25,2.9
+Hospital 30,City 10,State 10,42353,"893 Main St, City 10, State 10",Ultrasound,76801,Radiology,11921,Uninsured,42,4
+Hospital 31,City 11,State 1,95982,"641 Main St, City 11, State 1",MRI,70551,Radiology,5301,Private,35,4.9
+Hospital 31,City 11,State 1,91780,"203 Main St, City 11, State 1",X-Ray,71020,Radiology,12844,Medicare,24,4.5
+Hospital 31,City 11,State 1,76327,"542 Main St, City 11, State 1",Blood Test,85025,Laboratory,15892,Uninsured,58,3.9
+Hospital 31,City 11,State 1,74719,"322 Main St, City 11, State 1",Appendectomy,44950,Surgery,19388,Medicare,41,2.8
+Hospital 31,City 11,State 1,88393,"539 Main St, City 11, State 1",CT Scan,71260,Radiology,1203,Medicare,58,3.6
+Hospital 31,City 11,State 1,52622,"490 Main St, City 11, State 1",Physical Exam,99386,General,1449,Private,58,3
+Hospital 31,City 11,State 1,11997,"377 Main St, City 11, State 1",Knee Replacement,27447,Orthopedics,7038,Uninsured,26,3
+Hospital 31,City 11,State 1,15840,"630 Main St, City 11, State 1",Cardiac Stress Test,93015,Cardiology,12318,Private,34,4.7
+Hospital 31,City 11,State 1,31355,"229 Main St, City 11, State 1",Colonoscopy,45378,Gastroenterology,12197,Uninsured,41,3.6
+Hospital 31,City 11,State 1,75450,"902 Main St, City 11, State 1",Ultrasound,76801,Radiology,4864,Private,48,3.2
+Hospital 32,City 12,State 2,90348,"998 Main St, City 12, State 2",MRI,70551,Radiology,19519,Private,59,4
+Hospital 32,City 12,State 2,32302,"390 Main St, City 12, State 2",X-Ray,71020,Radiology,8375,Medicare,43,3
+Hospital 32,City 12,State 2,66709,"116 Main St, City 12, State 2",Blood Test,85025,Laboratory,12448,Medicare,35,3.8
+Hospital 32,City 12,State 2,21881,"592 Main St, City 12, State 2",Appendectomy,44950,Surgery,10043,Medicare,25,3.2
+Hospital 32,City 12,State 2,12044,"879 Main St, City 12, State 2",CT Scan,71260,Radiology,3833,Private,45,4.8
+Hospital 32,City 12,State 2,48957,"626 Main St, City 12, State 2",Physical Exam,99386,General,1468,Medicare,39,2.8
+Hospital 32,City 12,State 2,98181,"356 Main St, City 12, State 2",Knee Replacement,27447,Orthopedics,5538,Private,21,4.6
+Hospital 32,City 12,State 2,38105,"500 Main St, City 12, State 2",Cardiac Stress Test,93015,Cardiology,12735,Medicare,45,2.9
+Hospital 32,City 12,State 2,72532,"263 Main St, City 12, State 2",Colonoscopy,45378,Gastroenterology,13230,Private,6,4.7
+Hospital 32,City 12,State 2,57537,"598 Main St, City 12, State 2",Ultrasound,76801,Radiology,15742,Uninsured,20,2.9
+Hospital 33,City 13,State 3,39521,"498 Main St, City 13, State 3",MRI,70551,Radiology,14744,Uninsured,52,4.6
+Hospital 33,City 13,State 3,30900,"401 Main St, City 13, State 3",X-Ray,71020,Radiology,5758,Private,23,4.3
+Hospital 33,City 13,State 3,36610,"757 Main St, City 13, State 3",Blood Test,85025,Laboratory,8029,Uninsured,58,3.9
+Hospital 33,City 13,State 3,20981,"394 Main St, City 13, State 3",Appendectomy,44950,Surgery,16763,Uninsured,52,2.8
+Hospital 33,City 13,State 3,85481,"919 Main St, City 13, State 3",CT Scan,71260,Radiology,14890,Private,32,4.8
+Hospital 33,City 13,State 3,87700,"731 Main St, City 13, State 3",Physical Exam,99386,General,12392,Private,48,4.5
+Hospital 33,City 13,State 3,95505,"877 Main St, City 13, State 3",Knee Replacement,27447,Orthopedics,14454,Uninsured,15,4.5
+Hospital 33,City 13,State 3,52810,"242 Main St, City 13, State 3",Cardiac Stress Test,93015,Cardiology,16273,Medicare,49,3.7
+Hospital 33,City 13,State 3,81191,"171 Main St, City 13, State 3",Colonoscopy,45378,Gastroenterology,15197,Uninsured,37,2.7
+Hospital 33,City 13,State 3,21367,"525 Main St, City 13, State 3",Ultrasound,76801,Radiology,5239,Uninsured,18,2.8
+Hospital 34,City 14,State 4,96689,"324 Main St, City 14, State 4",MRI,70551,Radiology,16203,Medicare,28,4
+Hospital 34,City 14,State 4,12524,"815 Main St, City 14, State 4",X-Ray,71020,Radiology,16956,Medicare,18,4.9
+Hospital 34,City 14,State 4,28285,"682 Main St, City 14, State 4",Blood Test,85025,Laboratory,19322,Uninsured,26,2.8
+Hospital 34,City 14,State 4,13523,"951 Main St, City 14, State 4",Appendectomy,44950,Surgery,1844,Uninsured,36,4.1
+Hospital 34,City 14,State 4,17706,"694 Main St, City 14, State 4",CT Scan,71260,Radiology,11904,Uninsured,27,3.8
+Hospital 34,City 14,State 4,57611,"782 Main St, City 14, State 4",Physical Exam,99386,General,1373,Private,27,2.5
+Hospital 34,City 14,State 4,43305,"630 Main St, City 14, State 4",Knee Replacement,27447,Orthopedics,18580,Private,49,3.1
+Hospital 34,City 14,State 4,25882,"184 Main St, City 14, State 4",Cardiac Stress Test,93015,Cardiology,17355,Medicare,45,3.9
+Hospital 34,City 14,State 4,42547,"241 Main St, City 14, State 4",Colonoscopy,45378,Gastroenterology,13903,Private,42,3
+Hospital 34,City 14,State 4,56345,"418 Main St, City 14, State 4",Ultrasound,76801,Radiology,15162,Private,9,2.9
+Hospital 35,City 15,State 5,38943,"331 Main St, City 15, State 5",MRI,70551,Radiology,15720,Medicare,56,3.1
+Hospital 35,City 15,State 5,80724,"126 Main St, City 15, State 5",X-Ray,71020,Radiology,14946,Medicare,55,3.3
+Hospital 35,City 15,State 5,87507,"811 Main St, City 15, State 5",Blood Test,85025,Laboratory,6569,Uninsured,44,3.6
+Hospital 35,City 15,State 5,39835,"374 Main St, City 15, State 5",Appendectomy,44950,Surgery,11240,Private,7,2.7
+Hospital 35,City 15,State 5,41699,"966 Main St, City 15, State 5",CT Scan,71260,Radiology,5299,Uninsured,30,4.5
+Hospital 35,City 15,State 5,66727,"468 Main St, City 15, State 5",Physical Exam,99386,General,16269,Private,37,2.6
+Hospital 35,City 15,State 5,39834,"125 Main St, City 15, State 5",Knee Replacement,27447,Orthopedics,14884,Private,36,3.5
+Hospital 35,City 15,State 5,70752,"834 Main St, City 15, State 5",Cardiac Stress Test,93015,Cardiology,17571,Private,33,4.3
+Hospital 35,City 15,State 5,12022,"818 Main St, City 15, State 5",Colonoscopy,45378,Gastroenterology,18467,Uninsured,31,4.3
+Hospital 35,City 15,State 5,25736,"416 Main St, City 15, State 5",Ultrasound,76801,Radiology,14406,Private,18,2.7
+Hospital 36,City 16,State 6,84632,"784 Main St, City 16, State 6",MRI,70551,Radiology,12753,Uninsured,18,4.7
+Hospital 36,City 16,State 6,82718,"946 Main St, City 16, State 6",X-Ray,71020,Radiology,18985,Private,43,3.9
+Hospital 36,City 16,State 6,59517,"573 Main St, City 16, State 6",Blood Test,85025,Laboratory,10310,Uninsured,39,3.8
+Hospital 36,City 16,State 6,43710,"469 Main St, City 16, State 6",Appendectomy,44950,Surgery,10926,Private,7,3.4
+Hospital 36,City 16,State 6,93330,"459 Main St, City 16, State 6",CT Scan,71260,Radiology,1593,Uninsured,13,4
+Hospital 36,City 16,State 6,79089,"466 Main St, City 16, State 6",Physical Exam,99386,General,19084,Private,39,4.3
+Hospital 36,City 16,State 6,14771,"794 Main St, City 16, State 6",Knee Replacement,27447,Orthopedics,8091,Uninsured,56,2.5
+Hospital 36,City 16,State 6,76118,"777 Main St, City 16, State 6",Cardiac Stress Test,93015,Cardiology,12941,Uninsured,10,2.8
+Hospital 36,City 16,State 6,86191,"610 Main St, City 16, State 6",Colonoscopy,45378,Gastroenterology,6943,Medicare,49,4.5
+Hospital 36,City 16,State 6,95639,"220 Main St, City 16, State 6",Ultrasound,76801,Radiology,2685,Private,27,3.6
+Hospital 37,City 17,State 7,96653,"827 Main St, City 17, State 7",MRI,70551,Radiology,7807,Medicare,50,3.7
+Hospital 37,City 17,State 7,80261,"166 Main St, City 17, State 7",X-Ray,71020,Radiology,3635,Uninsured,31,4.7
+Hospital 37,City 17,State 7,89200,"469 Main St, City 17, State 7",Blood Test,85025,Laboratory,2132,Medicare,9,3.4
+Hospital 37,City 17,State 7,41848,"997 Main St, City 17, State 7",Appendectomy,44950,Surgery,14417,Private,35,4.6
+Hospital 37,City 17,State 7,29903,"253 Main St, City 17, State 7",CT Scan,71260,Radiology,18910,Private,40,2.6
+Hospital 37,City 17,State 7,30336,"892 Main St, City 17, State 7",Physical Exam,99386,General,18038,Uninsured,36,3.5
+Hospital 37,City 17,State 7,22142,"332 Main St, City 17, State 7",Knee Replacement,27447,Orthopedics,19302,Uninsured,38,3.8
+Hospital 37,City 17,State 7,20419,"875 Main St, City 17, State 7",Cardiac Stress Test,93015,Cardiology,4409,Private,40,3.6
+Hospital 37,City 17,State 7,52524,"246 Main St, City 17, State 7",Colonoscopy,45378,Gastroenterology,17768,Medicare,39,3.5
+Hospital 37,City 17,State 7,58051,"285 Main St, City 17, State 7",Ultrasound,76801,Radiology,19302,Private,14,2.6
+Hospital 38,City 18,State 8,86919,"757 Main St, City 18, State 8",MRI,70551,Radiology,3135,Uninsured,30,3
+Hospital 38,City 18,State 8,91127,"503 Main St, City 18, State 8",X-Ray,71020,Radiology,17007,Uninsured,33,3.6
+Hospital 38,City 18,State 8,76021,"788 Main St, City 18, State 8",Blood Test,85025,Laboratory,10207,Private,32,4.7
+Hospital 38,City 18,State 8,16336,"584 Main St, City 18, State 8",Appendectomy,44950,Surgery,9945,Uninsured,51,3.9
+Hospital 38,City 18,State 8,47476,"371 Main St, City 18, State 8",CT Scan,71260,Radiology,6475,Medicare,7,3.5
+Hospital 38,City 18,State 8,37145,"107 Main St, City 18, State 8",Physical Exam,99386,General,5539,Medicare,10,3.6
+Hospital 38,City 18,State 8,29164,"372 Main St, City 18, State 8",Knee Replacement,27447,Orthopedics,4738,Medicare,40,2.6
+Hospital 38,City 18,State 8,81380,"117 Main St, City 18, State 8",Cardiac Stress Test,93015,Cardiology,13042,Private,19,3.7
+Hospital 38,City 18,State 8,83866,"534 Main St, City 18, State 8",Colonoscopy,45378,Gastroenterology,9608,Private,21,3.3
+Hospital 38,City 18,State 8,12167,"323 Main St, City 18, State 8",Ultrasound,76801,Radiology,13948,Medicare,44,4.7
+Hospital 39,City 19,State 9,34834,"851 Main St, City 19, State 9",MRI,70551,Radiology,9680,Medicare,38,3.8
+Hospital 39,City 19,State 9,55093,"847 Main St, City 19, State 9",X-Ray,71020,Radiology,19926,Uninsured,20,2.8
+Hospital 39,City 19,State 9,42753,"190 Main St, City 19, State 9",Blood Test,85025,Laboratory,17521,Uninsured,24,3.8
+Hospital 39,City 19,State 9,25504,"891 Main St, City 19, State 9",Appendectomy,44950,Surgery,821,Private,20,4
+Hospital 39,City 19,State 9,73428,"710 Main St, City 19, State 9",CT Scan,71260,Radiology,10895,Medicare,19,3.3
+Hospital 39,City 19,State 9,19002,"350 Main St, City 19, State 9",Physical Exam,99386,General,6184,Uninsured,56,3.8
+Hospital 39,City 19,State 9,22706,"956 Main St, City 19, State 9",Knee Replacement,27447,Orthopedics,1709,Medicare,50,3.8
+Hospital 39,City 19,State 9,20669,"479 Main St, City 19, State 9",Cardiac Stress Test,93015,Cardiology,18865,Medicare,5,4.2
+Hospital 39,City 19,State 9,61251,"917 Main St, City 19, State 9",Colonoscopy,45378,Gastroenterology,883,Uninsured,38,3.5
+Hospital 39,City 19,State 9,61558,"553 Main St, City 19, State 9",Ultrasound,76801,Radiology,19253,Private,57,3.1
+Hospital 40,City 20,State 10,61403,"494 Main St, City 20, State 10",MRI,70551,Radiology,3496,Private,9,3.9
+Hospital 40,City 20,State 10,27630,"893 Main St, City 20, State 10",X-Ray,71020,Radiology,18076,Medicare,28,4.1
+Hospital 40,City 20,State 10,28290,"474 Main St, City 20, State 10",Blood Test,85025,Laboratory,12503,Private,7,4.5
+Hospital 40,City 20,State 10,46742,"926 Main St, City 20, State 10",Appendectomy,44950,Surgery,3682,Private,37,3.8
+Hospital 40,City 20,State 10,23144,"793 Main St, City 20, State 10",CT Scan,71260,Radiology,9860,Uninsured,53,2.8
+Hospital 40,City 20,State 10,58311,"217 Main St, City 20, State 10",Physical Exam,99386,General,1207,Medicare,13,3.2
+Hospital 40,City 20,State 10,91709,"143 Main St, City 20, State 10",Knee Replacement,27447,Orthopedics,11478,Medicare,51,3.2
+Hospital 40,City 20,State 10,42786,"674 Main St, City 20, State 10",Cardiac Stress Test,93015,Cardiology,2433,Medicare,27,4
+Hospital 40,City 20,State 10,28874,"138 Main St, City 20, State 10",Colonoscopy,45378,Gastroenterology,11587,Medicare,44,3.3
+Hospital 40,City 20,State 10,61573,"162 Main St, City 20, State 10",Ultrasound,76801,Radiology,5936,Private,30,4.6
+Hospital 41,City 1,State 1,14657,"788 Main St, City 1, State 1",MRI,70551,Radiology,10985,Medicare,44,3.5
+Hospital 41,City 1,State 1,36304,"948 Main St, City 1, State 1",X-Ray,71020,Radiology,11608,Medicare,42,4.8
+Hospital 41,City 1,State 1,58789,"487 Main St, City 1, State 1",Blood Test,85025,Laboratory,3186,Medicare,14,3.1
+Hospital 41,City 1,State 1,18731,"322 Main St, City 1, State 1",Appendectomy,44950,Surgery,7885,Private,40,4.8
+Hospital 41,City 1,State 1,87363,"578 Main St, City 1, State 1",CT Scan,71260,Radiology,11947,Uninsured,20,4.1
+Hospital 41,City 1,State 1,94071,"523 Main St, City 1, State 1",Physical Exam,99386,General,17122,Private,41,3.8
+Hospital 41,City 1,State 1,37627,"807 Main St, City 1, State 1",Knee Replacement,27447,Orthopedics,14500,Uninsured,23,4.5
+Hospital 41,City 1,State 1,49895,"301 Main St, City 1, State 1",Cardiac Stress Test,93015,Cardiology,3581,Private,51,4.6
+Hospital 41,City 1,State 1,66814,"459 Main St, City 1, State 1",Colonoscopy,45378,Gastroenterology,16586,Uninsured,52,2.8
+Hospital 41,City 1,State 1,54212,"109 Main St, City 1, State 1",Ultrasound,76801,Radiology,17341,Medicare,20,4.2
+Hospital 42,City 2,State 2,11508,"650 Main St, City 2, State 2",MRI,70551,Radiology,6699,Private,54,2.8
+Hospital 42,City 2,State 2,25961,"879 Main St, City 2, State 2",X-Ray,71020,Radiology,2655,Uninsured,6,3.9
+Hospital 42,City 2,State 2,31809,"394 Main St, City 2, State 2",Blood Test,85025,Laboratory,12456,Private,23,3.4
+Hospital 42,City 2,State 2,69517,"529 Main St, City 2, State 2",Appendectomy,44950,Surgery,344,Private,9,3.8
+Hospital 42,City 2,State 2,48502,"290 Main St, City 2, State 2",CT Scan,71260,Radiology,8511,Medicare,58,2.8
+Hospital 42,City 2,State 2,49112,"871 Main St, City 2, State 2",Physical Exam,99386,General,5101,Uninsured,50,3.6
+Hospital 42,City 2,State 2,22205,"764 Main St, City 2, State 2",Knee Replacement,27447,Orthopedics,13229,Private,27,3.5
+Hospital 42,City 2,State 2,87373,"615 Main St, City 2, State 2",Cardiac Stress Test,93015,Cardiology,1235,Private,30,4.8
+Hospital 42,City 2,State 2,97388,"774 Main St, City 2, State 2",Colonoscopy,45378,Gastroenterology,16967,Medicare,17,3.9
+Hospital 42,City 2,State 2,66044,"808 Main St, City 2, State 2",Ultrasound,76801,Radiology,12614,Uninsured,9,3
+Hospital 43,City 3,State 3,60953,"486 Main St, City 3, State 3",MRI,70551,Radiology,5093,Uninsured,46,4.9
+Hospital 43,City 3,State 3,73700,"881 Main St, City 3, State 3",X-Ray,71020,Radiology,10646,Private,26,3.5
+Hospital 43,City 3,State 3,11942,"728 Main St, City 3, State 3",Blood Test,85025,Laboratory,15038,Private,9,2.8
+Hospital 43,City 3,State 3,30431,"834 Main St, City 3, State 3",Appendectomy,44950,Surgery,5648,Uninsured,9,3.5
+Hospital 43,City 3,State 3,28028,"101 Main St, City 3, State 3",CT Scan,71260,Radiology,1442,Medicare,37,2.5
+Hospital 43,City 3,State 3,84613,"782 Main St, City 3, State 3",Physical Exam,99386,General,4454,Private,42,3
+Hospital 43,City 3,State 3,50455,"503 Main St, City 3, State 3",Knee Replacement,27447,Orthopedics,729,Uninsured,51,3.4
+Hospital 43,City 3,State 3,33287,"358 Main St, City 3, State 3",Cardiac Stress Test,93015,Cardiology,14490,Uninsured,57,2.8
+Hospital 43,City 3,State 3,37972,"396 Main St, City 3, State 3",Colonoscopy,45378,Gastroenterology,13554,Medicare,14,3.8
+Hospital 43,City 3,State 3,21954,"411 Main St, City 3, State 3",Ultrasound,76801,Radiology,10352,Medicare,40,4.2
+Hospital 44,City 4,State 4,28047,"576 Main St, City 4, State 4",MRI,70551,Radiology,15563,Private,54,4.7
+Hospital 44,City 4,State 4,95040,"974 Main St, City 4, State 4",X-Ray,71020,Radiology,9003,Private,43,3.8
+Hospital 44,City 4,State 4,66691,"593 Main St, City 4, State 4",Blood Test,85025,Laboratory,5929,Private,23,3.1
+Hospital 44,City 4,State 4,40852,"123 Main St, City 4, State 4",Appendectomy,44950,Surgery,18274,Private,25,4.9
+Hospital 44,City 4,State 4,11462,"571 Main St, City 4, State 4",CT Scan,71260,Radiology,14427,Medicare,38,2.9
+Hospital 44,City 4,State 4,40438,"645 Main St, City 4, State 4",Physical Exam,99386,General,11829,Uninsured,46,4.1
+Hospital 44,City 4,State 4,55935,"627 Main St, City 4, State 4",Knee Replacement,27447,Orthopedics,732,Uninsured,34,3.6
+Hospital 44,City 4,State 4,37583,"801 Main St, City 4, State 4",Cardiac Stress Test,93015,Cardiology,6110,Private,23,3.1
+Hospital 44,City 4,State 4,83510,"511 Main St, City 4, State 4",Colonoscopy,45378,Gastroenterology,8273,Private,53,3.2
+Hospital 44,City 4,State 4,40339,"794 Main St, City 4, State 4",Ultrasound,76801,Radiology,3896,Uninsured,5,4.8
+Hospital 45,City 5,State 5,38686,"920 Main St, City 5, State 5",MRI,70551,Radiology,13134,Medicare,24,3.6
+Hospital 45,City 5,State 5,80820,"269 Main St, City 5, State 5",X-Ray,71020,Radiology,18947,Private,41,2.8
+Hospital 45,City 5,State 5,35411,"991 Main St, City 5, State 5",Blood Test,85025,Laboratory,9998,Private,19,4.2
+Hospital 45,City 5,State 5,96669,"558 Main St, City 5, State 5",Appendectomy,44950,Surgery,15695,Uninsured,33,4.4
+Hospital 45,City 5,State 5,44745,"954 Main St, City 5, State 5",CT Scan,71260,Radiology,1415,Private,16,3.8
+Hospital 45,City 5,State 5,86300,"589 Main St, City 5, State 5",Physical Exam,99386,General,5003,Private,50,3
+Hospital 45,City 5,State 5,29760,"454 Main St, City 5, State 5",Knee Replacement,27447,Orthopedics,13584,Medicare,29,3.5
+Hospital 45,City 5,State 5,76498,"727 Main St, City 5, State 5",Cardiac Stress Test,93015,Cardiology,9455,Uninsured,13,4.1
+Hospital 45,City 5,State 5,84247,"195 Main St, City 5, State 5",Colonoscopy,45378,Gastroenterology,8012,Medicare,10,3.5
+Hospital 45,City 5,State 5,36786,"109 Main St, City 5, State 5",Ultrasound,76801,Radiology,13455,Private,30,4.2
+Hospital 46,City 6,State 6,57968,"426 Main St, City 6, State 6",MRI,70551,Radiology,11328,Medicare,15,3.8
+Hospital 46,City 6,State 6,14913,"800 Main St, City 6, State 6",X-Ray,71020,Radiology,17325,Uninsured,54,4.4
+Hospital 46,City 6,State 6,87964,"884 Main St, City 6, State 6",Blood Test,85025,Laboratory,7655,Medicare,48,2.9
+Hospital 46,City 6,State 6,32473,"830 Main St, City 6, State 6",Appendectomy,44950,Surgery,7502,Private,29,4.9
+Hospital 46,City 6,State 6,61248,"313 Main St, City 6, State 6",CT Scan,71260,Radiology,1715,Uninsured,38,4.3
+Hospital 46,City 6,State 6,51783,"434 Main St, City 6, State 6",Physical Exam,99386,General,14821,Uninsured,54,3.7
+Hospital 46,City 6,State 6,82930,"476 Main St, City 6, State 6",Knee Replacement,27447,Orthopedics,781,Medicare,13,4.1
+Hospital 46,City 6,State 6,81633,"534 Main St, City 6, State 6",Cardiac Stress Test,93015,Cardiology,14077,Private,48,2.9
+Hospital 46,City 6,State 6,35109,"666 Main St, City 6, State 6",Colonoscopy,45378,Gastroenterology,13473,Uninsured,25,4.9
+Hospital 46,City 6,State 6,61776,"818 Main St, City 6, State 6",Ultrasound,76801,Radiology,17940,Private,30,2.7
+Hospital 47,City 7,State 7,72647,"848 Main St, City 7, State 7",MRI,70551,Radiology,4456,Uninsured,46,2.8
+Hospital 47,City 7,State 7,11672,"321 Main St, City 7, State 7",X-Ray,71020,Radiology,12365,Private,26,4.3
+Hospital 47,City 7,State 7,11613,"960 Main St, City 7, State 7",Blood Test,85025,Laboratory,16302,Medicare,19,3.2
+Hospital 47,City 7,State 7,88410,"557 Main St, City 7, State 7",Appendectomy,44950,Surgery,14719,Uninsured,52,4.1
+Hospital 47,City 7,State 7,43582,"726 Main St, City 7, State 7",CT Scan,71260,Radiology,10471,Uninsured,49,3.4
+Hospital 47,City 7,State 7,52756,"397 Main St, City 7, State 7",Physical Exam,99386,General,17032,Uninsured,44,5
+Hospital 47,City 7,State 7,65651,"872 Main St, City 7, State 7",Knee Replacement,27447,Orthopedics,17049,Private,52,3.8
+Hospital 47,City 7,State 7,34973,"684 Main St, City 7, State 7",Cardiac Stress Test,93015,Cardiology,10513,Medicare,25,4.2
+Hospital 47,City 7,State 7,42742,"102 Main St, City 7, State 7",Colonoscopy,45378,Gastroenterology,12701,Private,43,3.5
+Hospital 47,City 7,State 7,25499,"687 Main St, City 7, State 7",Ultrasound,76801,Radiology,6501,Private,51,4.7
+Hospital 48,City 8,State 8,23533,"767 Main St, City 8, State 8",MRI,70551,Radiology,14784,Private,18,2.8
+Hospital 48,City 8,State 8,49755,"432 Main St, City 8, State 8",X-Ray,71020,Radiology,18635,Uninsured,8,3.3
+Hospital 48,City 8,State 8,22309,"130 Main St, City 8, State 8",Blood Test,85025,Laboratory,7092,Uninsured,26,4.3
+Hospital 48,City 8,State 8,36187,"145 Main St, City 8, State 8",Appendectomy,44950,Surgery,17797,Medicare,24,4
+Hospital 48,City 8,State 8,85671,"562 Main St, City 8, State 8",CT Scan,71260,Radiology,5383,Private,31,4.3
+Hospital 48,City 8,State 8,49626,"162 Main St, City 8, State 8",Physical Exam,99386,General,3307,Private,34,3.6
+Hospital 48,City 8,State 8,65159,"355 Main St, City 8, State 8",Knee Replacement,27447,Orthopedics,12660,Medicare,53,4.9
+Hospital 48,City 8,State 8,76721,"230 Main St, City 8, State 8",Cardiac Stress Test,93015,Cardiology,12673,Uninsured,6,4.8
+Hospital 48,City 8,State 8,73548,"289 Main St, City 8, State 8",Colonoscopy,45378,Gastroenterology,15319,Medicare,26,2.6
+Hospital 48,City 8,State 8,30766,"913 Main St, City 8, State 8",Ultrasound,76801,Radiology,1795,Uninsured,20,3.9
+Hospital 49,City 9,State 9,92776,"433 Main St, City 9, State 9",MRI,70551,Radiology,13259,Medicare,42,4.8
+Hospital 49,City 9,State 9,74215,"546 Main St, City 9, State 9",X-Ray,71020,Radiology,2010,Uninsured,7,4.8
+Hospital 49,City 9,State 9,79551,"127 Main St, City 9, State 9",Blood Test,85025,Laboratory,13587,Medicare,22,3.1
+Hospital 49,City 9,State 9,36593,"372 Main St, City 9, State 9",Appendectomy,44950,Surgery,15304,Medicare,26,2.9
+Hospital 49,City 9,State 9,94848,"918 Main St, City 9, State 9",CT Scan,71260,Radiology,6122,Medicare,31,3.4
+Hospital 49,City 9,State 9,68714,"501 Main St, City 9, State 9",Physical Exam,99386,General,8694,Medicare,38,4.4
+Hospital 49,City 9,State 9,26351,"424 Main St, City 9, State 9",Knee Replacement,27447,Orthopedics,14979,Uninsured,39,4.6
+Hospital 49,City 9,State 9,64825,"194 Main St, City 9, State 9",Cardiac Stress Test,93015,Cardiology,9598,Medicare,6,4.8
+Hospital 49,City 9,State 9,81807,"806 Main St, City 9, State 9",Colonoscopy,45378,Gastroenterology,5569,Uninsured,53,4.6
+Hospital 49,City 9,State 9,59352,"792 Main St, City 9, State 9",Ultrasound,76801,Radiology,6240,Private,5,3.1
+Hospital 50,City 10,State 10,76139,"659 Main St, City 10, State 10",MRI,70551,Radiology,9784,Uninsured,32,3.8
+Hospital 50,City 10,State 10,43682,"190 Main St, City 10, State 10",X-Ray,71020,Radiology,14903,Private,52,3.4
+Hospital 50,City 10,State 10,46151,"403 Main St, City 10, State 10",Blood Test,85025,Laboratory,9148,Uninsured,32,3.1
+Hospital 50,City 10,State 10,69842,"610 Main St, City 10, State 10",Appendectomy,44950,Surgery,12172,Private,23,2.7
+Hospital 50,City 10,State 10,71743,"710 Main St, City 10, State 10",CT Scan,71260,Radiology,16461,Medicare,29,4.8
+Hospital 50,City 10,State 10,71621,"866 Main St, City 10, State 10",Physical Exam,99386,General,19486,Private,47,3.3
+Hospital 50,City 10,State 10,10502,"305 Main St, City 10, State 10",Knee Replacement,27447,Orthopedics,19359,Uninsured,53,4.5
+Hospital 50,City 10,State 10,96211,"964 Main St, City 10, State 10",Cardiac Stress Test,93015,Cardiology,2850,Medicare,53,2.6
+Hospital 50,City 10,State 10,31006,"213 Main St, City 10, State 10",Colonoscopy,45378,Gastroenterology,6041,Private,59,4.2
+Hospital 50,City 10,State 10,21086,"597 Main St, City 10, State 10",Ultrasound,76801,Radiology,10480,Medicare,14,3.1
+Hospital 51,City 11,State 1,19341,"188 Main St, City 11, State 1",MRI,70551,Radiology,12072,Private,18,2.9
+Hospital 51,City 11,State 1,28402,"540 Main St, City 11, State 1",X-Ray,71020,Radiology,13001,Uninsured,17,3.7
+Hospital 51,City 11,State 1,85868,"786 Main St, City 11, State 1",Blood Test,85025,Laboratory,9261,Medicare,30,3.6
+Hospital 51,City 11,State 1,79842,"389 Main St, City 11, State 1",Appendectomy,44950,Surgery,7896,Medicare,40,3.7
+Hospital 51,City 11,State 1,26777,"427 Main St, City 11, State 1",CT Scan,71260,Radiology,3533,Uninsured,32,3.6
+Hospital 51,City 11,State 1,36072,"805 Main St, City 11, State 1",Physical Exam,99386,General,1031,Private,25,2.5
+Hospital 51,City 11,State 1,29398,"655 Main St, City 11, State 1",Knee Replacement,27447,Orthopedics,17172,Uninsured,12,3.1
+Hospital 51,City 11,State 1,59933,"247 Main St, City 11, State 1",Cardiac Stress Test,93015,Cardiology,282,Medicare,54,3.7
+Hospital 51,City 11,State 1,34182,"932 Main St, City 11, State 1",Colonoscopy,45378,Gastroenterology,8814,Private,9,4.2
+Hospital 51,City 11,State 1,66663,"421 Main St, City 11, State 1",Ultrasound,76801,Radiology,7674,Medicare,44,3.2
+Hospital 52,City 12,State 2,79332,"448 Main St, City 12, State 2",MRI,70551,Radiology,5769,Medicare,37,4
+Hospital 52,City 12,State 2,30606,"513 Main St, City 12, State 2",X-Ray,71020,Radiology,5346,Medicare,7,2.7
+Hospital 52,City 12,State 2,18914,"882 Main St, City 12, State 2",Blood Test,85025,Laboratory,18804,Private,27,4.6
+Hospital 52,City 12,State 2,42577,"256 Main St, City 12, State 2",Appendectomy,44950,Surgery,2544,Private,23,4.9
+Hospital 52,City 12,State 2,79585,"245 Main St, City 12, State 2",CT Scan,71260,Radiology,1077,Private,10,4.9
+Hospital 52,City 12,State 2,57444,"630 Main St, City 12, State 2",Physical Exam,99386,General,3472,Uninsured,24,3.7
+Hospital 52,City 12,State 2,97337,"853 Main St, City 12, State 2",Knee Replacement,27447,Orthopedics,9765,Medicare,41,3.7
+Hospital 52,City 12,State 2,93842,"110 Main St, City 12, State 2",Cardiac Stress Test,93015,Cardiology,10172,Medicare,58,4.5
+Hospital 52,City 12,State 2,19124,"466 Main St, City 12, State 2",Colonoscopy,45378,Gastroenterology,665,Uninsured,30,3.3
+Hospital 52,City 12,State 2,80973,"154 Main St, City 12, State 2",Ultrasound,76801,Radiology,16762,Private,41,4.7
+Hospital 53,City 13,State 3,95613,"439 Main St, City 13, State 3",MRI,70551,Radiology,9772,Private,8,2.6
+Hospital 53,City 13,State 3,39142,"921 Main St, City 13, State 3",X-Ray,71020,Radiology,5113,Medicare,53,4.2
+Hospital 53,City 13,State 3,31778,"700 Main St, City 13, State 3",Blood Test,85025,Laboratory,12179,Uninsured,11,2.9
+Hospital 53,City 13,State 3,85365,"942 Main St, City 13, State 3",Appendectomy,44950,Surgery,7713,Medicare,5,3
+Hospital 53,City 13,State 3,40218,"348 Main St, City 13, State 3",CT Scan,71260,Radiology,7778,Private,17,3
+Hospital 53,City 13,State 3,89361,"631 Main St, City 13, State 3",Physical Exam,99386,General,11488,Uninsured,12,4.4
+Hospital 53,City 13,State 3,20751,"787 Main St, City 13, State 3",Knee Replacement,27447,Orthopedics,4324,Uninsured,35,2.6
+Hospital 53,City 13,State 3,53803,"767 Main St, City 13, State 3",Cardiac Stress Test,93015,Cardiology,498,Uninsured,11,2.7
+Hospital 53,City 13,State 3,81960,"567 Main St, City 13, State 3",Colonoscopy,45378,Gastroenterology,3243,Medicare,53,4.2
+Hospital 53,City 13,State 3,61961,"500 Main St, City 13, State 3",Ultrasound,76801,Radiology,15362,Uninsured,38,2.9
+Hospital 54,City 14,State 4,69268,"690 Main St, City 14, State 4",MRI,70551,Radiology,13611,Medicare,15,3.3
+Hospital 54,City 14,State 4,86663,"581 Main St, City 14, State 4",X-Ray,71020,Radiology,8297,Medicare,57,4.9
+Hospital 54,City 14,State 4,56415,"817 Main St, City 14, State 4",Blood Test,85025,Laboratory,2929,Private,27,4.4
+Hospital 54,City 14,State 4,91251,"175 Main St, City 14, State 4",Appendectomy,44950,Surgery,4364,Private,10,2.8
+Hospital 54,City 14,State 4,96581,"166 Main St, City 14, State 4",CT Scan,71260,Radiology,16391,Private,17,3.6
+Hospital 54,City 14,State 4,79980,"460 Main St, City 14, State 4",Physical Exam,99386,General,3863,Private,20,3.5
+Hospital 54,City 14,State 4,35532,"432 Main St, City 14, State 4",Knee Replacement,27447,Orthopedics,7116,Medicare,11,4.6
+Hospital 54,City 14,State 4,99438,"499 Main St, City 14, State 4",Cardiac Stress Test,93015,Cardiology,10461,Uninsured,31,4.9
+Hospital 54,City 14,State 4,11062,"630 Main St, City 14, State 4",Colonoscopy,45378,Gastroenterology,12647,Private,24,3.2
+Hospital 54,City 14,State 4,53384,"662 Main St, City 14, State 4",Ultrasound,76801,Radiology,7347,Medicare,34,4.4
+Hospital 55,City 15,State 5,15172,"202 Main St, City 15, State 5",MRI,70551,Radiology,1037,Uninsured,55,2.6
+Hospital 55,City 15,State 5,46854,"126 Main St, City 15, State 5",X-Ray,71020,Radiology,9329,Medicare,57,3.1
+Hospital 55,City 15,State 5,54393,"500 Main St, City 15, State 5",Blood Test,85025,Laboratory,4367,Medicare,16,2.9
+Hospital 55,City 15,State 5,11616,"255 Main St, City 15, State 5",Appendectomy,44950,Surgery,5552,Private,9,4
+Hospital 55,City 15,State 5,62300,"122 Main St, City 15, State 5",CT Scan,71260,Radiology,15939,Private,29,4
+Hospital 55,City 15,State 5,41566,"870 Main St, City 15, State 5",Physical Exam,99386,General,19014,Uninsured,40,3.9
+Hospital 55,City 15,State 5,97932,"876 Main St, City 15, State 5",Knee Replacement,27447,Orthopedics,18629,Uninsured,54,3.1
+Hospital 55,City 15,State 5,36122,"766 Main St, City 15, State 5",Cardiac Stress Test,93015,Cardiology,8207,Medicare,52,4.7
+Hospital 55,City 15,State 5,10640,"952 Main St, City 15, State 5",Colonoscopy,45378,Gastroenterology,8822,Private,40,4.2
+Hospital 55,City 15,State 5,23277,"223 Main St, City 15, State 5",Ultrasound,76801,Radiology,5843,Medicare,34,3.8
+Hospital 56,City 16,State 6,80388,"700 Main St, City 16, State 6",MRI,70551,Radiology,13982,Uninsured,27,2.8
+Hospital 56,City 16,State 6,69821,"170 Main St, City 16, State 6",X-Ray,71020,Radiology,7126,Medicare,7,4.3
+Hospital 56,City 16,State 6,75258,"751 Main St, City 16, State 6",Blood Test,85025,Laboratory,16533,Private,27,4.8
+Hospital 56,City 16,State 6,77447,"366 Main St, City 16, State 6",Appendectomy,44950,Surgery,14327,Uninsured,26,3.6
+Hospital 56,City 16,State 6,55478,"827 Main St, City 16, State 6",CT Scan,71260,Radiology,4065,Uninsured,8,3.9
+Hospital 56,City 16,State 6,90995,"258 Main St, City 16, State 6",Physical Exam,99386,General,12820,Medicare,31,3.5
+Hospital 56,City 16,State 6,15412,"144 Main St, City 16, State 6",Knee Replacement,27447,Orthopedics,13385,Private,6,3.9
+Hospital 56,City 16,State 6,79582,"759 Main St, City 16, State 6",Cardiac Stress Test,93015,Cardiology,18711,Uninsured,20,3.9
+Hospital 56,City 16,State 6,82369,"529 Main St, City 16, State 6",Colonoscopy,45378,Gastroenterology,16700,Medicare,59,4.9
+Hospital 56,City 16,State 6,95100,"290 Main St, City 16, State 6",Ultrasound,76801,Radiology,1296,Uninsured,14,4.7
+Hospital 57,City 17,State 7,77880,"659 Main St, City 17, State 7",MRI,70551,Radiology,11286,Medicare,53,4.4
+Hospital 57,City 17,State 7,48040,"409 Main St, City 17, State 7",X-Ray,71020,Radiology,7945,Private,50,3.5
+Hospital 57,City 17,State 7,10552,"855 Main St, City 17, State 7",Blood Test,85025,Laboratory,13708,Uninsured,35,4.8
+Hospital 57,City 17,State 7,35522,"817 Main St, City 17, State 7",Appendectomy,44950,Surgery,12866,Medicare,43,3.7
+Hospital 57,City 17,State 7,54393,"417 Main St, City 17, State 7",CT Scan,71260,Radiology,145,Uninsured,49,3.7
+Hospital 57,City 17,State 7,12194,"402 Main St, City 17, State 7",Physical Exam,99386,General,15609,Uninsured,15,5
+Hospital 57,City 17,State 7,26665,"870 Main St, City 17, State 7",Knee Replacement,27447,Orthopedics,6113,Uninsured,27,4.8
+Hospital 57,City 17,State 7,62176,"370 Main St, City 17, State 7",Cardiac Stress Test,93015,Cardiology,464,Private,27,3.9
+Hospital 57,City 17,State 7,40915,"469 Main St, City 17, State 7",Colonoscopy,45378,Gastroenterology,12381,Medicare,7,3.7
+Hospital 57,City 17,State 7,96069,"134 Main St, City 17, State 7",Ultrasound,76801,Radiology,10722,Private,58,4
+Hospital 58,City 18,State 8,95238,"844 Main St, City 18, State 8",MRI,70551,Radiology,512,Private,26,4.8
+Hospital 58,City 18,State 8,21160,"279 Main St, City 18, State 8",X-Ray,71020,Radiology,16141,Private,42,3.4
+Hospital 58,City 18,State 8,93699,"875 Main St, City 18, State 8",Blood Test,85025,Laboratory,11136,Private,9,3.8
+Hospital 58,City 18,State 8,98623,"149 Main St, City 18, State 8",Appendectomy,44950,Surgery,5302,Medicare,15,4.7
+Hospital 58,City 18,State 8,21588,"343 Main St, City 18, State 8",CT Scan,71260,Radiology,11016,Uninsured,45,3
+Hospital 58,City 18,State 8,66491,"303 Main St, City 18, State 8",Physical Exam,99386,General,5425,Uninsured,37,4.5
+Hospital 58,City 18,State 8,86210,"722 Main St, City 18, State 8",Knee Replacement,27447,Orthopedics,5524,Medicare,44,4.1
+Hospital 58,City 18,State 8,27932,"196 Main St, City 18, State 8",Cardiac Stress Test,93015,Cardiology,17168,Uninsured,7,3.4
+Hospital 58,City 18,State 8,62766,"439 Main St, City 18, State 8",Colonoscopy,45378,Gastroenterology,5561,Private,34,4.9
+Hospital 58,City 18,State 8,85581,"615 Main St, City 18, State 8",Ultrasound,76801,Radiology,5744,Medicare,6,2.9
+Hospital 59,City 19,State 9,99486,"573 Main St, City 19, State 9",MRI,70551,Radiology,18613,Medicare,12,3.3
+Hospital 59,City 19,State 9,79295,"290 Main St, City 19, State 9",X-Ray,71020,Radiology,15192,Uninsured,32,3.1
+Hospital 59,City 19,State 9,35619,"156 Main St, City 19, State 9",Blood Test,85025,Laboratory,3128,Medicare,39,4.6
+Hospital 59,City 19,State 9,26533,"258 Main St, City 19, State 9",Appendectomy,44950,Surgery,19051,Medicare,55,4.6
+Hospital 59,City 19,State 9,50406,"517 Main St, City 19, State 9",CT Scan,71260,Radiology,7488,Private,50,4.5
+Hospital 59,City 19,State 9,68604,"860 Main St, City 19, State 9",Physical Exam,99386,General,10791,Uninsured,38,4.7
+Hospital 59,City 19,State 9,99095,"603 Main St, City 19, State 9",Knee Replacement,27447,Orthopedics,16715,Medicare,59,4.2
+Hospital 59,City 19,State 9,66371,"451 Main St, City 19, State 9",Cardiac Stress Test,93015,Cardiology,7680,Uninsured,28,2.8
+Hospital 59,City 19,State 9,91569,"983 Main St, City 19, State 9",Colonoscopy,45378,Gastroenterology,1892,Medicare,22,3.5
+Hospital 59,City 19,State 9,32353,"115 Main St, City 19, State 9",Ultrasound,76801,Radiology,13850,Medicare,43,3.1
+Hospital 60,City 20,State 10,71007,"527 Main St, City 20, State 10",MRI,70551,Radiology,12291,Uninsured,7,4.8
+Hospital 60,City 20,State 10,68469,"931 Main St, City 20, State 10",X-Ray,71020,Radiology,19922,Medicare,44,2.6
+Hospital 60,City 20,State 10,35208,"624 Main St, City 20, State 10",Blood Test,85025,Laboratory,10880,Medicare,37,4.9
+Hospital 60,City 20,State 10,18296,"334 Main St, City 20, State 10",Appendectomy,44950,Surgery,15689,Uninsured,18,3.8
+Hospital 60,City 20,State 10,61399,"561 Main St, City 20, State 10",CT Scan,71260,Radiology,12135,Uninsured,5,2.7
+Hospital 60,City 20,State 10,56027,"674 Main St, City 20, State 10",Physical Exam,99386,General,19329,Uninsured,16,4.3
+Hospital 60,City 20,State 10,43129,"249 Main St, City 20, State 10",Knee Replacement,27447,Orthopedics,17056,Uninsured,52,4
+Hospital 60,City 20,State 10,69673,"158 Main St, City 20, State 10",Cardiac Stress Test,93015,Cardiology,15291,Medicare,54,4.7
+Hospital 60,City 20,State 10,39078,"687 Main St, City 20, State 10",Colonoscopy,45378,Gastroenterology,15414,Uninsured,44,4.5
+Hospital 60,City 20,State 10,94323,"282 Main St, City 20, State 10",Ultrasound,76801,Radiology,12798,Private,28,3.8
+Hospital 61,City 1,State 1,67781,"829 Main St, City 1, State 1",MRI,70551,Radiology,4353,Private,44,4.1
+Hospital 61,City 1,State 1,17397,"711 Main St, City 1, State 1",X-Ray,71020,Radiology,6041,Uninsured,51,3
+Hospital 61,City 1,State 1,10933,"451 Main St, City 1, State 1",Blood Test,85025,Laboratory,14095,Private,27,3.2
+Hospital 61,City 1,State 1,72287,"540 Main St, City 1, State 1",Appendectomy,44950,Surgery,16463,Medicare,24,4.9
+Hospital 61,City 1,State 1,50163,"386 Main St, City 1, State 1",CT Scan,71260,Radiology,17996,Uninsured,54,3.6
+Hospital 61,City 1,State 1,31865,"208 Main St, City 1, State 1",Physical Exam,99386,General,4081,Private,25,3.7
+Hospital 61,City 1,State 1,75141,"570 Main St, City 1, State 1",Knee Replacement,27447,Orthopedics,12912,Uninsured,50,3.7
+Hospital 61,City 1,State 1,32534,"645 Main St, City 1, State 1",Cardiac Stress Test,93015,Cardiology,18200,Private,36,3.5
+Hospital 61,City 1,State 1,50087,"127 Main St, City 1, State 1",Colonoscopy,45378,Gastroenterology,14995,Medicare,29,3.2
+Hospital 61,City 1,State 1,23812,"631 Main St, City 1, State 1",Ultrasound,76801,Radiology,8874,Private,18,2.6
+Hospital 62,City 2,State 2,66593,"498 Main St, City 2, State 2",MRI,70551,Radiology,17909,Uninsured,19,2.8
+Hospital 62,City 2,State 2,93454,"438 Main St, City 2, State 2",X-Ray,71020,Radiology,7071,Medicare,35,2.8
+Hospital 62,City 2,State 2,81224,"571 Main St, City 2, State 2",Blood Test,85025,Laboratory,16391,Medicare,46,4.2
+Hospital 62,City 2,State 2,32339,"822 Main St, City 2, State 2",Appendectomy,44950,Surgery,15759,Private,51,3
+Hospital 62,City 2,State 2,24490,"375 Main St, City 2, State 2",CT Scan,71260,Radiology,16007,Medicare,12,4.1
+Hospital 62,City 2,State 2,37182,"132 Main St, City 2, State 2",Physical Exam,99386,General,575,Uninsured,56,2.6
+Hospital 62,City 2,State 2,21062,"637 Main St, City 2, State 2",Knee Replacement,27447,Orthopedics,6506,Private,16,4.6
+Hospital 62,City 2,State 2,17980,"575 Main St, City 2, State 2",Cardiac Stress Test,93015,Cardiology,13056,Uninsured,25,4.8
+Hospital 62,City 2,State 2,70843,"918 Main St, City 2, State 2",Colonoscopy,45378,Gastroenterology,15255,Private,28,3
+Hospital 62,City 2,State 2,14174,"448 Main St, City 2, State 2",Ultrasound,76801,Radiology,18036,Medicare,38,4.6
+Hospital 63,City 3,State 3,25541,"794 Main St, City 3, State 3",MRI,70551,Radiology,5924,Medicare,12,2.7
+Hospital 63,City 3,State 3,69508,"331 Main St, City 3, State 3",X-Ray,71020,Radiology,17586,Private,16,3.9
+Hospital 63,City 3,State 3,93996,"566 Main St, City 3, State 3",Blood Test,85025,Laboratory,12747,Private,44,4.5
+Hospital 63,City 3,State 3,97714,"694 Main St, City 3, State 3",Appendectomy,44950,Surgery,4054,Uninsured,20,4
+Hospital 63,City 3,State 3,29733,"843 Main St, City 3, State 3",CT Scan,71260,Radiology,12609,Uninsured,29,4.1
+Hospital 63,City 3,State 3,64020,"846 Main St, City 3, State 3",Physical Exam,99386,General,18398,Private,56,4.8
+Hospital 63,City 3,State 3,96138,"327 Main St, City 3, State 3",Knee Replacement,27447,Orthopedics,5791,Private,13,3.4
+Hospital 63,City 3,State 3,45420,"478 Main St, City 3, State 3",Cardiac Stress Test,93015,Cardiology,3730,Medicare,46,3.3
+Hospital 63,City 3,State 3,53176,"622 Main St, City 3, State 3",Colonoscopy,45378,Gastroenterology,2799,Uninsured,59,3.3
+Hospital 63,City 3,State 3,75343,"413 Main St, City 3, State 3",Ultrasound,76801,Radiology,14419,Uninsured,42,2.6
+Hospital 64,City 4,State 4,28065,"208 Main St, City 4, State 4",MRI,70551,Radiology,8377,Medicare,36,3.9
+Hospital 64,City 4,State 4,47437,"619 Main St, City 4, State 4",X-Ray,71020,Radiology,7138,Uninsured,22,4.6
+Hospital 64,City 4,State 4,96521,"705 Main St, City 4, State 4",Blood Test,85025,Laboratory,10986,Private,11,2.5
+Hospital 64,City 4,State 4,71214,"647 Main St, City 4, State 4",Appendectomy,44950,Surgery,8403,Medicare,21,3.2
+Hospital 64,City 4,State 4,20431,"616 Main St, City 4, State 4",CT Scan,71260,Radiology,16423,Medicare,24,2.9
+Hospital 64,City 4,State 4,25089,"927 Main St, City 4, State 4",Physical Exam,99386,General,17256,Medicare,28,4.9
+Hospital 64,City 4,State 4,63175,"310 Main St, City 4, State 4",Knee Replacement,27447,Orthopedics,8524,Uninsured,54,4.9
+Hospital 64,City 4,State 4,26453,"809 Main St, City 4, State 4",Cardiac Stress Test,93015,Cardiology,19780,Uninsured,23,3.8
+Hospital 64,City 4,State 4,43824,"757 Main St, City 4, State 4",Colonoscopy,45378,Gastroenterology,14947,Uninsured,38,3
+Hospital 64,City 4,State 4,32170,"682 Main St, City 4, State 4",Ultrasound,76801,Radiology,15137,Medicare,16,3.1
+Hospital 65,City 5,State 5,51477,"521 Main St, City 5, State 5",MRI,70551,Radiology,10160,Medicare,21,3.7
+Hospital 65,City 5,State 5,89226,"874 Main St, City 5, State 5",X-Ray,71020,Radiology,10523,Uninsured,17,2.9
+Hospital 65,City 5,State 5,40826,"208 Main St, City 5, State 5",Blood Test,85025,Laboratory,15474,Medicare,28,3.7
+Hospital 65,City 5,State 5,67758,"192 Main St, City 5, State 5",Appendectomy,44950,Surgery,7877,Medicare,46,2.8
+Hospital 65,City 5,State 5,55441,"698 Main St, City 5, State 5",CT Scan,71260,Radiology,13573,Uninsured,40,3.3
+Hospital 65,City 5,State 5,72909,"719 Main St, City 5, State 5",Physical Exam,99386,General,2333,Private,16,4.5
+Hospital 65,City 5,State 5,89113,"596 Main St, City 5, State 5",Knee Replacement,27447,Orthopedics,10592,Uninsured,32,2.7
+Hospital 65,City 5,State 5,26266,"378 Main St, City 5, State 5",Cardiac Stress Test,93015,Cardiology,18485,Medicare,49,2.5
+Hospital 65,City 5,State 5,68077,"441 Main St, City 5, State 5",Colonoscopy,45378,Gastroenterology,11559,Private,32,2.8
+Hospital 65,City 5,State 5,92994,"226 Main St, City 5, State 5",Ultrasound,76801,Radiology,17857,Uninsured,31,3.8
+Hospital 66,City 6,State 6,42489,"676 Main St, City 6, State 6",MRI,70551,Radiology,17823,Medicare,30,3.9
+Hospital 66,City 6,State 6,15652,"794 Main St, City 6, State 6",X-Ray,71020,Radiology,19056,Uninsured,33,4.4
+Hospital 66,City 6,State 6,14230,"483 Main St, City 6, State 6",Blood Test,85025,Laboratory,18226,Private,35,2.6
+Hospital 66,City 6,State 6,82018,"650 Main St, City 6, State 6",Appendectomy,44950,Surgery,3100,Medicare,22,3.4
+Hospital 66,City 6,State 6,64357,"863 Main St, City 6, State 6",CT Scan,71260,Radiology,1685,Medicare,26,3.2
+Hospital 66,City 6,State 6,68082,"313 Main St, City 6, State 6",Physical Exam,99386,General,16820,Medicare,24,4.1
+Hospital 66,City 6,State 6,35221,"101 Main St, City 6, State 6",Knee Replacement,27447,Orthopedics,18424,Private,32,3.2
+Hospital 66,City 6,State 6,36859,"514 Main St, City 6, State 6",Cardiac Stress Test,93015,Cardiology,650,Uninsured,42,3
+Hospital 66,City 6,State 6,13541,"723 Main St, City 6, State 6",Colonoscopy,45378,Gastroenterology,10350,Private,42,4
+Hospital 66,City 6,State 6,16199,"413 Main St, City 6, State 6",Ultrasound,76801,Radiology,2818,Medicare,10,3.9
+Hospital 67,City 7,State 7,82824,"753 Main St, City 7, State 7",MRI,70551,Radiology,13740,Private,38,2.8
+Hospital 67,City 7,State 7,83261,"271 Main St, City 7, State 7",X-Ray,71020,Radiology,2400,Medicare,7,4.2
+Hospital 67,City 7,State 7,58258,"363 Main St, City 7, State 7",Blood Test,85025,Laboratory,6592,Private,41,4.2
+Hospital 67,City 7,State 7,22153,"801 Main St, City 7, State 7",Appendectomy,44950,Surgery,14635,Uninsured,37,3.7
+Hospital 67,City 7,State 7,82937,"582 Main St, City 7, State 7",CT Scan,71260,Radiology,7398,Private,35,4.8
+Hospital 67,City 7,State 7,40910,"945 Main St, City 7, State 7",Physical Exam,99386,General,5600,Uninsured,10,3.7
+Hospital 67,City 7,State 7,65006,"340 Main St, City 7, State 7",Knee Replacement,27447,Orthopedics,11412,Uninsured,11,4.3
+Hospital 67,City 7,State 7,33157,"408 Main St, City 7, State 7",Cardiac Stress Test,93015,Cardiology,18749,Uninsured,54,3.3
+Hospital 67,City 7,State 7,97048,"816 Main St, City 7, State 7",Colonoscopy,45378,Gastroenterology,2743,Private,12,4.8
+Hospital 67,City 7,State 7,13089,"230 Main St, City 7, State 7",Ultrasound,76801,Radiology,16042,Medicare,21,2.8
+Hospital 68,City 8,State 8,61119,"768 Main St, City 8, State 8",MRI,70551,Radiology,8901,Private,25,2.6
+Hospital 68,City 8,State 8,88988,"829 Main St, City 8, State 8",X-Ray,71020,Radiology,15996,Medicare,9,3
+Hospital 68,City 8,State 8,40050,"712 Main St, City 8, State 8",Blood Test,85025,Laboratory,9199,Medicare,12,4.8
+Hospital 68,City 8,State 8,10403,"780 Main St, City 8, State 8",Appendectomy,44950,Surgery,4272,Medicare,37,3.4
+Hospital 68,City 8,State 8,44390,"602 Main St, City 8, State 8",CT Scan,71260,Radiology,18875,Medicare,17,4.4
+Hospital 68,City 8,State 8,62688,"950 Main St, City 8, State 8",Physical Exam,99386,General,4812,Private,27,4.2
+Hospital 68,City 8,State 8,67007,"290 Main St, City 8, State 8",Knee Replacement,27447,Orthopedics,13309,Uninsured,15,4.2
+Hospital 68,City 8,State 8,38462,"837 Main St, City 8, State 8",Cardiac Stress Test,93015,Cardiology,8295,Medicare,22,4.1
+Hospital 68,City 8,State 8,57826,"585 Main St, City 8, State 8",Colonoscopy,45378,Gastroenterology,16468,Private,25,2.6
+Hospital 68,City 8,State 8,56208,"230 Main St, City 8, State 8",Ultrasound,76801,Radiology,19973,Medicare,32,3.2
+Hospital 69,City 9,State 9,75347,"240 Main St, City 9, State 9",MRI,70551,Radiology,12051,Private,20,2.7
+Hospital 69,City 9,State 9,48957,"651 Main St, City 9, State 9",X-Ray,71020,Radiology,3232,Uninsured,51,3.3
+Hospital 69,City 9,State 9,89243,"906 Main St, City 9, State 9",Blood Test,85025,Laboratory,14697,Medicare,28,3.3
+Hospital 69,City 9,State 9,88434,"967 Main St, City 9, State 9",Appendectomy,44950,Surgery,18190,Uninsured,24,3
+Hospital 69,City 9,State 9,74905,"393 Main St, City 9, State 9",CT Scan,71260,Radiology,1495,Medicare,52,4.3
+Hospital 69,City 9,State 9,31606,"508 Main St, City 9, State 9",Physical Exam,99386,General,2787,Private,59,4.4
+Hospital 69,City 9,State 9,21703,"349 Main St, City 9, State 9",Knee Replacement,27447,Orthopedics,8004,Uninsured,56,3.6
+Hospital 69,City 9,State 9,83435,"306 Main St, City 9, State 9",Cardiac Stress Test,93015,Cardiology,11417,Private,51,3.5
+Hospital 69,City 9,State 9,13030,"532 Main St, City 9, State 9",Colonoscopy,45378,Gastroenterology,19800,Medicare,30,3.1
+Hospital 69,City 9,State 9,43676,"393 Main St, City 9, State 9",Ultrasound,76801,Radiology,9861,Medicare,28,3.2
+Hospital 70,City 10,State 10,25828,"242 Main St, City 10, State 10",MRI,70551,Radiology,3922,Uninsured,20,3.4
+Hospital 70,City 10,State 10,57023,"668 Main St, City 10, State 10",X-Ray,71020,Radiology,9044,Uninsured,41,4.3
+Hospital 70,City 10,State 10,69721,"331 Main St, City 10, State 10",Blood Test,85025,Laboratory,11691,Private,26,3.5
+Hospital 70,City 10,State 10,67968,"885 Main St, City 10, State 10",Appendectomy,44950,Surgery,9254,Private,56,3.5
+Hospital 70,City 10,State 10,88486,"178 Main St, City 10, State 10",CT Scan,71260,Radiology,19618,Uninsured,38,4.4
+Hospital 70,City 10,State 10,62359,"998 Main St, City 10, State 10",Physical Exam,99386,General,1142,Private,39,2.8
+Hospital 70,City 10,State 10,98857,"735 Main St, City 10, State 10",Knee Replacement,27447,Orthopedics,10945,Uninsured,25,2.8
+Hospital 70,City 10,State 10,22531,"815 Main St, City 10, State 10",Cardiac Stress Test,93015,Cardiology,15023,Private,17,2.9
+Hospital 70,City 10,State 10,50960,"814 Main St, City 10, State 10",Colonoscopy,45378,Gastroenterology,18334,Private,15,4.1
+Hospital 70,City 10,State 10,52851,"314 Main St, City 10, State 10",Ultrasound,76801,Radiology,11509,Private,45,3.5
+Hospital 71,City 11,State 1,29121,"205 Main St, City 11, State 1",MRI,70551,Radiology,17340,Medicare,58,5
+Hospital 71,City 11,State 1,75196,"634 Main St, City 11, State 1",X-Ray,71020,Radiology,10581,Medicare,28,2.9
+Hospital 71,City 11,State 1,31314,"587 Main St, City 11, State 1",Blood Test,85025,Laboratory,7077,Private,10,2.8
+Hospital 71,City 11,State 1,20923,"232 Main St, City 11, State 1",Appendectomy,44950,Surgery,8316,Medicare,16,4
+Hospital 71,City 11,State 1,64164,"642 Main St, City 11, State 1",CT Scan,71260,Radiology,9742,Uninsured,24,2.7
+Hospital 71,City 11,State 1,24674,"808 Main St, City 11, State 1",Physical Exam,99386,General,2979,Uninsured,46,4.1
+Hospital 71,City 11,State 1,17541,"498 Main St, City 11, State 1",Knee Replacement,27447,Orthopedics,16109,Uninsured,28,3.6
+Hospital 71,City 11,State 1,30877,"942 Main St, City 11, State 1",Cardiac Stress Test,93015,Cardiology,8442,Uninsured,28,4.7
+Hospital 71,City 11,State 1,39223,"479 Main St, City 11, State 1",Colonoscopy,45378,Gastroenterology,15401,Medicare,29,3.2
+Hospital 71,City 11,State 1,25473,"191 Main St, City 11, State 1",Ultrasound,76801,Radiology,14626,Uninsured,56,2.9
+Hospital 72,City 12,State 2,27678,"573 Main St, City 12, State 2",MRI,70551,Radiology,8567,Uninsured,28,3.3
+Hospital 72,City 12,State 2,46879,"218 Main St, City 12, State 2",X-Ray,71020,Radiology,3597,Medicare,12,3.8
+Hospital 72,City 12,State 2,61779,"175 Main St, City 12, State 2",Blood Test,85025,Laboratory,5099,Private,22,4.3
+Hospital 72,City 12,State 2,49042,"529 Main St, City 12, State 2",Appendectomy,44950,Surgery,9561,Medicare,46,3.4
+Hospital 72,City 12,State 2,49451,"165 Main St, City 12, State 2",CT Scan,71260,Radiology,7801,Medicare,57,4.4
+Hospital 72,City 12,State 2,48984,"421 Main St, City 12, State 2",Physical Exam,99386,General,11343,Medicare,24,2.9
+Hospital 72,City 12,State 2,83716,"906 Main St, City 12, State 2",Knee Replacement,27447,Orthopedics,5660,Medicare,24,3.9
+Hospital 72,City 12,State 2,38193,"944 Main St, City 12, State 2",Cardiac Stress Test,93015,Cardiology,14090,Medicare,42,2.6
+Hospital 72,City 12,State 2,83818,"278 Main St, City 12, State 2",Colonoscopy,45378,Gastroenterology,14774,Uninsured,19,3.9
+Hospital 72,City 12,State 2,79515,"242 Main St, City 12, State 2",Ultrasound,76801,Radiology,1949,Uninsured,58,3.9
+Hospital 73,City 13,State 3,56846,"979 Main St, City 13, State 3",MRI,70551,Radiology,11226,Uninsured,27,3.8
+Hospital 73,City 13,State 3,40233,"606 Main St, City 13, State 3",X-Ray,71020,Radiology,6365,Uninsured,17,4.7
+Hospital 73,City 13,State 3,38101,"414 Main St, City 13, State 3",Blood Test,85025,Laboratory,13163,Medicare,34,3.5
+Hospital 73,City 13,State 3,57487,"545 Main St, City 13, State 3",Appendectomy,44950,Surgery,7992,Uninsured,33,4.1
+Hospital 73,City 13,State 3,18137,"107 Main St, City 13, State 3",CT Scan,71260,Radiology,3287,Uninsured,18,3.3
+Hospital 73,City 13,State 3,69450,"331 Main St, City 13, State 3",Physical Exam,99386,General,13037,Private,55,2.8
+Hospital 73,City 13,State 3,86416,"827 Main St, City 13, State 3",Knee Replacement,27447,Orthopedics,5756,Medicare,7,4.5
+Hospital 73,City 13,State 3,93666,"158 Main St, City 13, State 3",Cardiac Stress Test,93015,Cardiology,532,Private,55,4.3
+Hospital 73,City 13,State 3,16302,"599 Main St, City 13, State 3",Colonoscopy,45378,Gastroenterology,14726,Medicare,56,4.2
+Hospital 73,City 13,State 3,65083,"613 Main St, City 13, State 3",Ultrasound,76801,Radiology,15747,Medicare,27,4
+Hospital 74,City 14,State 4,24419,"772 Main St, City 14, State 4",MRI,70551,Radiology,11228,Uninsured,50,4
+Hospital 74,City 14,State 4,75894,"770 Main St, City 14, State 4",X-Ray,71020,Radiology,2468,Medicare,28,4.4
+Hospital 74,City 14,State 4,71371,"801 Main St, City 14, State 4",Blood Test,85025,Laboratory,12220,Medicare,56,2.9
+Hospital 74,City 14,State 4,23974,"187 Main St, City 14, State 4",Appendectomy,44950,Surgery,8406,Private,5,3.7
+Hospital 74,City 14,State 4,25777,"139 Main St, City 14, State 4",CT Scan,71260,Radiology,9438,Uninsured,28,4.8
+Hospital 74,City 14,State 4,96379,"601 Main St, City 14, State 4",Physical Exam,99386,General,1248,Medicare,5,4.4
+Hospital 74,City 14,State 4,67065,"706 Main St, City 14, State 4",Knee Replacement,27447,Orthopedics,14919,Private,55,3.3
+Hospital 74,City 14,State 4,34393,"352 Main St, City 14, State 4",Cardiac Stress Test,93015,Cardiology,14542,Medicare,36,3.3
+Hospital 74,City 14,State 4,70852,"398 Main St, City 14, State 4",Colonoscopy,45378,Gastroenterology,13761,Uninsured,59,3.5
+Hospital 74,City 14,State 4,39827,"248 Main St, City 14, State 4",Ultrasound,76801,Radiology,8603,Private,28,4
+Hospital 75,City 15,State 5,59543,"846 Main St, City 15, State 5",MRI,70551,Radiology,11836,Uninsured,25,2.6
+Hospital 75,City 15,State 5,88366,"515 Main St, City 15, State 5",X-Ray,71020,Radiology,194,Medicare,28,3
+Hospital 75,City 15,State 5,43440,"376 Main St, City 15, State 5",Blood Test,85025,Laboratory,15740,Uninsured,29,4.5
+Hospital 75,City 15,State 5,79485,"525 Main St, City 15, State 5",Appendectomy,44950,Surgery,16144,Medicare,42,4.7
+Hospital 75,City 15,State 5,70087,"199 Main St, City 15, State 5",CT Scan,71260,Radiology,580,Private,5,2.9
+Hospital 75,City 15,State 5,52275,"992 Main St, City 15, State 5",Physical Exam,99386,General,225,Private,42,3.6
+Hospital 75,City 15,State 5,90396,"405 Main St, City 15, State 5",Knee Replacement,27447,Orthopedics,140,Uninsured,15,4.6
+Hospital 75,City 15,State 5,42691,"739 Main St, City 15, State 5",Cardiac Stress Test,93015,Cardiology,14192,Private,48,4.8
+Hospital 75,City 15,State 5,76480,"930 Main St, City 15, State 5",Colonoscopy,45378,Gastroenterology,5215,Medicare,21,4.4
+Hospital 75,City 15,State 5,55640,"150 Main St, City 15, State 5",Ultrasound,76801,Radiology,494,Private,37,3.2
+Hospital 76,City 16,State 6,64381,"487 Main St, City 16, State 6",MRI,70551,Radiology,2608,Uninsured,44,4.6
+Hospital 76,City 16,State 6,40576,"112 Main St, City 16, State 6",X-Ray,71020,Radiology,13214,Private,53,4.4
+Hospital 76,City 16,State 6,47741,"386 Main St, City 16, State 6",Blood Test,85025,Laboratory,4174,Private,29,4
+Hospital 76,City 16,State 6,55005,"292 Main St, City 16, State 6",Appendectomy,44950,Surgery,3318,Medicare,46,2.8
+Hospital 76,City 16,State 6,74060,"864 Main St, City 16, State 6",CT Scan,71260,Radiology,14697,Medicare,18,2.9
+Hospital 76,City 16,State 6,98360,"986 Main St, City 16, State 6",Physical Exam,99386,General,15108,Uninsured,14,4.2
+Hospital 76,City 16,State 6,49744,"681 Main St, City 16, State 6",Knee Replacement,27447,Orthopedics,2116,Medicare,52,4.3
+Hospital 76,City 16,State 6,10900,"255 Main St, City 16, State 6",Cardiac Stress Test,93015,Cardiology,10176,Private,36,4.6
+Hospital 76,City 16,State 6,19035,"691 Main St, City 16, State 6",Colonoscopy,45378,Gastroenterology,17113,Private,9,2.9
+Hospital 76,City 16,State 6,78204,"895 Main St, City 16, State 6",Ultrasound,76801,Radiology,7278,Private,41,4.1
+Hospital 77,City 17,State 7,42652,"817 Main St, City 17, State 7",MRI,70551,Radiology,19490,Medicare,33,4.7
+Hospital 77,City 17,State 7,80681,"618 Main St, City 17, State 7",X-Ray,71020,Radiology,6343,Medicare,39,4.7
+Hospital 77,City 17,State 7,79004,"661 Main St, City 17, State 7",Blood Test,85025,Laboratory,10820,Medicare,52,3
+Hospital 77,City 17,State 7,45784,"709 Main St, City 17, State 7",Appendectomy,44950,Surgery,16074,Uninsured,30,3.2
+Hospital 77,City 17,State 7,48671,"699 Main St, City 17, State 7",CT Scan,71260,Radiology,19633,Uninsured,39,4.9
+Hospital 77,City 17,State 7,18367,"509 Main St, City 17, State 7",Physical Exam,99386,General,6566,Private,25,2.5
+Hospital 77,City 17,State 7,69308,"104 Main St, City 17, State 7",Knee Replacement,27447,Orthopedics,1518,Uninsured,21,4.1
+Hospital 77,City 17,State 7,38884,"936 Main St, City 17, State 7",Cardiac Stress Test,93015,Cardiology,15536,Uninsured,59,4.7
+Hospital 77,City 17,State 7,15542,"361 Main St, City 17, State 7",Colonoscopy,45378,Gastroenterology,346,Medicare,29,3.3
+Hospital 77,City 17,State 7,80868,"664 Main St, City 17, State 7",Ultrasound,76801,Radiology,3175,Medicare,26,4.3
+Hospital 78,City 18,State 8,44850,"758 Main St, City 18, State 8",MRI,70551,Radiology,18653,Medicare,26,3
+Hospital 78,City 18,State 8,89884,"314 Main St, City 18, State 8",X-Ray,71020,Radiology,6566,Private,50,4.8
+Hospital 78,City 18,State 8,95607,"558 Main St, City 18, State 8",Blood Test,85025,Laboratory,16390,Private,58,4.9
+Hospital 78,City 18,State 8,36608,"136 Main St, City 18, State 8",Appendectomy,44950,Surgery,9875,Medicare,27,2.7
+Hospital 78,City 18,State 8,30211,"430 Main St, City 18, State 8",CT Scan,71260,Radiology,4125,Private,11,3.8
+Hospital 78,City 18,State 8,77312,"140 Main St, City 18, State 8",Physical Exam,99386,General,12280,Uninsured,8,4.5
+Hospital 78,City 18,State 8,85309,"457 Main St, City 18, State 8",Knee Replacement,27447,Orthopedics,12812,Private,13,2.7
+Hospital 78,City 18,State 8,19807,"586 Main St, City 18, State 8",Cardiac Stress Test,93015,Cardiology,6300,Private,55,3.5
+Hospital 78,City 18,State 8,77010,"820 Main St, City 18, State 8",Colonoscopy,45378,Gastroenterology,15089,Medicare,52,3.1
+Hospital 78,City 18,State 8,52586,"762 Main St, City 18, State 8",Ultrasound,76801,Radiology,9668,Medicare,8,4.5
+Hospital 79,City 19,State 9,46548,"577 Main St, City 19, State 9",MRI,70551,Radiology,17156,Uninsured,16,4.8
+Hospital 79,City 19,State 9,23095,"648 Main St, City 19, State 9",X-Ray,71020,Radiology,14026,Medicare,18,2.7
+Hospital 79,City 19,State 9,77086,"672 Main St, City 19, State 9",Blood Test,85025,Laboratory,16519,Medicare,15,4
+Hospital 79,City 19,State 9,29083,"816 Main St, City 19, State 9",Appendectomy,44950,Surgery,374,Private,32,2.7
+Hospital 79,City 19,State 9,49265,"557 Main St, City 19, State 9",CT Scan,71260,Radiology,4872,Medicare,14,2.5
+Hospital 79,City 19,State 9,91884,"236 Main St, City 19, State 9",Physical Exam,99386,General,7061,Private,18,3.2
+Hospital 79,City 19,State 9,29336,"371 Main St, City 19, State 9",Knee Replacement,27447,Orthopedics,3192,Private,35,2.8
+Hospital 79,City 19,State 9,86496,"946 Main St, City 19, State 9",Cardiac Stress Test,93015,Cardiology,5733,Private,34,3.4
+Hospital 79,City 19,State 9,86574,"429 Main St, City 19, State 9",Colonoscopy,45378,Gastroenterology,4813,Uninsured,13,4.8
+Hospital 79,City 19,State 9,68923,"788 Main St, City 19, State 9",Ultrasound,76801,Radiology,8624,Medicare,59,4
+Hospital 80,City 20,State 10,85229,"380 Main St, City 20, State 10",MRI,70551,Radiology,13920,Private,52,2.7
+Hospital 80,City 20,State 10,68073,"674 Main St, City 20, State 10",X-Ray,71020,Radiology,17364,Private,44,4.4
+Hospital 80,City 20,State 10,70128,"392 Main St, City 20, State 10",Blood Test,85025,Laboratory,12019,Private,6,4.4
+Hospital 80,City 20,State 10,98594,"268 Main St, City 20, State 10",Appendectomy,44950,Surgery,4598,Medicare,35,3.4
+Hospital 80,City 20,State 10,42638,"960 Main St, City 20, State 10",CT Scan,71260,Radiology,9239,Medicare,44,4.2
+Hospital 80,City 20,State 10,99248,"491 Main St, City 20, State 10",Physical Exam,99386,General,17941,Private,12,3.6
+Hospital 80,City 20,State 10,29756,"890 Main St, City 20, State 10",Knee Replacement,27447,Orthopedics,13261,Private,17,4.2
+Hospital 80,City 20,State 10,32499,"372 Main St, City 20, State 10",Cardiac Stress Test,93015,Cardiology,13054,Private,37,3.1
+Hospital 80,City 20,State 10,12338,"442 Main St, City 20, State 10",Colonoscopy,45378,Gastroenterology,6599,Private,16,3.2
+Hospital 80,City 20,State 10,74079,"141 Main St, City 20, State 10",Ultrasound,76801,Radiology,934,Medicare,18,3.7
+Hospital 81,City 1,State 1,61231,"472 Main St, City 1, State 1",MRI,70551,Radiology,1285,Medicare,33,4.5
+Hospital 81,City 1,State 1,82794,"271 Main St, City 1, State 1",X-Ray,71020,Radiology,5459,Private,19,4.1
+Hospital 81,City 1,State 1,64865,"281 Main St, City 1, State 1",Blood Test,85025,Laboratory,11438,Uninsured,14,4.6
+Hospital 81,City 1,State 1,43010,"417 Main St, City 1, State 1",Appendectomy,44950,Surgery,19911,Medicare,59,4.7
+Hospital 81,City 1,State 1,10829,"234 Main St, City 1, State 1",CT Scan,71260,Radiology,5873,Medicare,36,3.7
+Hospital 81,City 1,State 1,15857,"471 Main St, City 1, State 1",Physical Exam,99386,General,14707,Uninsured,38,4.1
+Hospital 81,City 1,State 1,64946,"742 Main St, City 1, State 1",Knee Replacement,27447,Orthopedics,2350,Private,28,4.7
+Hospital 81,City 1,State 1,91406,"487 Main St, City 1, State 1",Cardiac Stress Test,93015,Cardiology,12814,Uninsured,51,2.7
+Hospital 81,City 1,State 1,43638,"433 Main St, City 1, State 1",Colonoscopy,45378,Gastroenterology,12682,Uninsured,7,3.4
+Hospital 81,City 1,State 1,14122,"357 Main St, City 1, State 1",Ultrasound,76801,Radiology,10511,Medicare,47,4.8
+Hospital 82,City 2,State 2,34314,"521 Main St, City 2, State 2",MRI,70551,Radiology,15152,Medicare,9,3.8
+Hospital 82,City 2,State 2,85427,"277 Main St, City 2, State 2",X-Ray,71020,Radiology,10426,Medicare,48,4.9
+Hospital 82,City 2,State 2,82882,"436 Main St, City 2, State 2",Blood Test,85025,Laboratory,11214,Uninsured,28,4.8
+Hospital 82,City 2,State 2,63429,"598 Main St, City 2, State 2",Appendectomy,44950,Surgery,17367,Medicare,12,4.7
+Hospital 82,City 2,State 2,39057,"680 Main St, City 2, State 2",CT Scan,71260,Radiology,12707,Uninsured,14,2.7
+Hospital 82,City 2,State 2,64046,"132 Main St, City 2, State 2",Physical Exam,99386,General,6667,Medicare,14,4.9
+Hospital 82,City 2,State 2,64863,"941 Main St, City 2, State 2",Knee Replacement,27447,Orthopedics,19113,Private,13,4
+Hospital 82,City 2,State 2,11198,"167 Main St, City 2, State 2",Cardiac Stress Test,93015,Cardiology,12503,Medicare,50,4.5
+Hospital 82,City 2,State 2,45762,"806 Main St, City 2, State 2",Colonoscopy,45378,Gastroenterology,1717,Uninsured,13,3.2
+Hospital 82,City 2,State 2,70875,"756 Main St, City 2, State 2",Ultrasound,76801,Radiology,7656,Medicare,8,3.1
+Hospital 83,City 3,State 3,98426,"868 Main St, City 3, State 3",MRI,70551,Radiology,10329,Uninsured,50,3.4
+Hospital 83,City 3,State 3,92369,"887 Main St, City 3, State 3",X-Ray,71020,Radiology,9575,Medicare,23,4.2
+Hospital 83,City 3,State 3,71095,"531 Main St, City 3, State 3",Blood Test,85025,Laboratory,7552,Uninsured,6,3.6
+Hospital 83,City 3,State 3,24271,"232 Main St, City 3, State 3",Appendectomy,44950,Surgery,15789,Private,57,2.6
+Hospital 83,City 3,State 3,33271,"616 Main St, City 3, State 3",CT Scan,71260,Radiology,433,Uninsured,46,2.6
+Hospital 83,City 3,State 3,58895,"652 Main St, City 3, State 3",Physical Exam,99386,General,6282,Uninsured,36,4.7
+Hospital 83,City 3,State 3,98745,"749 Main St, City 3, State 3",Knee Replacement,27447,Orthopedics,18881,Medicare,53,2.6
+Hospital 83,City 3,State 3,22045,"633 Main St, City 3, State 3",Cardiac Stress Test,93015,Cardiology,19315,Uninsured,18,3.4
+Hospital 83,City 3,State 3,84536,"894 Main St, City 3, State 3",Colonoscopy,45378,Gastroenterology,19550,Medicare,54,3.1
+Hospital 83,City 3,State 3,47279,"217 Main St, City 3, State 3",Ultrasound,76801,Radiology,1075,Uninsured,8,3.6
+Hospital 84,City 4,State 4,93059,"890 Main St, City 4, State 4",MRI,70551,Radiology,15912,Private,30,4.1
+Hospital 84,City 4,State 4,63477,"259 Main St, City 4, State 4",X-Ray,71020,Radiology,11727,Medicare,24,4.3
+Hospital 84,City 4,State 4,23540,"669 Main St, City 4, State 4",Blood Test,85025,Laboratory,19103,Private,19,2.8
+Hospital 84,City 4,State 4,75062,"758 Main St, City 4, State 4",Appendectomy,44950,Surgery,2735,Private,9,3.9
+Hospital 84,City 4,State 4,70719,"605 Main St, City 4, State 4",CT Scan,71260,Radiology,1397,Medicare,42,4.9
+Hospital 84,City 4,State 4,10202,"286 Main St, City 4, State 4",Physical Exam,99386,General,17977,Private,45,4.4
+Hospital 84,City 4,State 4,51685,"407 Main St, City 4, State 4",Knee Replacement,27447,Orthopedics,16639,Uninsured,42,4.2
+Hospital 84,City 4,State 4,14160,"860 Main St, City 4, State 4",Cardiac Stress Test,93015,Cardiology,8313,Uninsured,32,4.2
+Hospital 84,City 4,State 4,22344,"329 Main St, City 4, State 4",Colonoscopy,45378,Gastroenterology,414,Private,47,3.2
+Hospital 84,City 4,State 4,15262,"871 Main St, City 4, State 4",Ultrasound,76801,Radiology,14536,Medicare,41,3.7
+Hospital 85,City 5,State 5,97217,"299 Main St, City 5, State 5",MRI,70551,Radiology,6795,Uninsured,16,3.4
+Hospital 85,City 5,State 5,34619,"667 Main St, City 5, State 5",X-Ray,71020,Radiology,4336,Private,6,2.8
+Hospital 85,City 5,State 5,41264,"899 Main St, City 5, State 5",Blood Test,85025,Laboratory,11777,Medicare,34,2.7
+Hospital 85,City 5,State 5,33617,"508 Main St, City 5, State 5",Appendectomy,44950,Surgery,4161,Private,8,3
+Hospital 85,City 5,State 5,92520,"225 Main St, City 5, State 5",CT Scan,71260,Radiology,2322,Medicare,21,2.8
+Hospital 85,City 5,State 5,85168,"755 Main St, City 5, State 5",Physical Exam,99386,General,11686,Medicare,23,5
+Hospital 85,City 5,State 5,23630,"344 Main St, City 5, State 5",Knee Replacement,27447,Orthopedics,15662,Private,19,4.5
+Hospital 85,City 5,State 5,73106,"516 Main St, City 5, State 5",Cardiac Stress Test,93015,Cardiology,9814,Private,37,4.5
+Hospital 85,City 5,State 5,96693,"190 Main St, City 5, State 5",Colonoscopy,45378,Gastroenterology,1085,Private,45,3.8
+Hospital 85,City 5,State 5,38468,"760 Main St, City 5, State 5",Ultrasound,76801,Radiology,19775,Medicare,15,2.7
+Hospital 86,City 6,State 6,61558,"895 Main St, City 6, State 6",MRI,70551,Radiology,12325,Private,37,2.8
+Hospital 86,City 6,State 6,50206,"411 Main St, City 6, State 6",X-Ray,71020,Radiology,878,Uninsured,56,3.4
+Hospital 86,City 6,State 6,95841,"571 Main St, City 6, State 6",Blood Test,85025,Laboratory,3700,Medicare,35,4.2
+Hospital 86,City 6,State 6,24277,"300 Main St, City 6, State 6",Appendectomy,44950,Surgery,10880,Private,11,4.7
+Hospital 86,City 6,State 6,67951,"260 Main St, City 6, State 6",CT Scan,71260,Radiology,17355,Medicare,52,3.4
+Hospital 86,City 6,State 6,83727,"600 Main St, City 6, State 6",Physical Exam,99386,General,1588,Medicare,22,4.8
+Hospital 86,City 6,State 6,48186,"485 Main St, City 6, State 6",Knee Replacement,27447,Orthopedics,19037,Medicare,8,2.9
+Hospital 86,City 6,State 6,68663,"861 Main St, City 6, State 6",Cardiac Stress Test,93015,Cardiology,19012,Uninsured,10,4
+Hospital 86,City 6,State 6,38978,"196 Main St, City 6, State 6",Colonoscopy,45378,Gastroenterology,7593,Uninsured,37,2.8
+Hospital 86,City 6,State 6,48125,"287 Main St, City 6, State 6",Ultrasound,76801,Radiology,18618,Medicare,34,4.5
+Hospital 87,City 7,State 7,34998,"581 Main St, City 7, State 7",MRI,70551,Radiology,14022,Private,40,4.3
+Hospital 87,City 7,State 7,49272,"664 Main St, City 7, State 7",X-Ray,71020,Radiology,14784,Uninsured,35,4.9
+Hospital 87,City 7,State 7,50249,"466 Main St, City 7, State 7",Blood Test,85025,Laboratory,3579,Private,45,3.6
+Hospital 87,City 7,State 7,16843,"124 Main St, City 7, State 7",Appendectomy,44950,Surgery,8536,Medicare,33,3.6
+Hospital 87,City 7,State 7,74476,"879 Main St, City 7, State 7",CT Scan,71260,Radiology,4068,Medicare,52,2.5
+Hospital 87,City 7,State 7,44196,"716 Main St, City 7, State 7",Physical Exam,99386,General,10780,Medicare,20,3.1
+Hospital 87,City 7,State 7,86958,"776 Main St, City 7, State 7",Knee Replacement,27447,Orthopedics,755,Medicare,14,3.2
+Hospital 87,City 7,State 7,59450,"393 Main St, City 7, State 7",Cardiac Stress Test,93015,Cardiology,5267,Uninsured,45,4.4
+Hospital 87,City 7,State 7,41013,"480 Main St, City 7, State 7",Colonoscopy,45378,Gastroenterology,6401,Medicare,53,4.7
+Hospital 87,City 7,State 7,67929,"729 Main St, City 7, State 7",Ultrasound,76801,Radiology,17526,Private,5,4.5
+Hospital 88,City 8,State 8,31736,"350 Main St, City 8, State 8",MRI,70551,Radiology,13918,Medicare,31,4.8
+Hospital 88,City 8,State 8,64709,"535 Main St, City 8, State 8",X-Ray,71020,Radiology,7912,Uninsured,18,4.7
+Hospital 88,City 8,State 8,29989,"464 Main St, City 8, State 8",Blood Test,85025,Laboratory,19883,Uninsured,53,4.9
+Hospital 88,City 8,State 8,99798,"152 Main St, City 8, State 8",Appendectomy,44950,Surgery,4614,Uninsured,39,2.6
+Hospital 88,City 8,State 8,33505,"610 Main St, City 8, State 8",CT Scan,71260,Radiology,17674,Private,10,2.9
+Hospital 88,City 8,State 8,11367,"366 Main St, City 8, State 8",Physical Exam,99386,General,3307,Private,8,3.1
+Hospital 88,City 8,State 8,27223,"776 Main St, City 8, State 8",Knee Replacement,27447,Orthopedics,14793,Private,45,2.6
+Hospital 88,City 8,State 8,97232,"287 Main St, City 8, State 8",Cardiac Stress Test,93015,Cardiology,13895,Uninsured,11,4.6
+Hospital 88,City 8,State 8,66633,"291 Main St, City 8, State 8",Colonoscopy,45378,Gastroenterology,16387,Medicare,50,4.2
+Hospital 88,City 8,State 8,70150,"342 Main St, City 8, State 8",Ultrasound,76801,Radiology,19033,Uninsured,16,2.7
+Hospital 89,City 9,State 9,66495,"450 Main St, City 9, State 9",MRI,70551,Radiology,4404,Uninsured,25,3.1
+Hospital 89,City 9,State 9,18159,"985 Main St, City 9, State 9",X-Ray,71020,Radiology,17524,Uninsured,29,3.4
+Hospital 89,City 9,State 9,40986,"756 Main St, City 9, State 9",Blood Test,85025,Laboratory,6515,Medicare,30,3.5
+Hospital 89,City 9,State 9,81217,"834 Main St, City 9, State 9",Appendectomy,44950,Surgery,12090,Private,26,2.5
+Hospital 89,City 9,State 9,24690,"763 Main St, City 9, State 9",CT Scan,71260,Radiology,2338,Uninsured,7,4
+Hospital 89,City 9,State 9,40642,"414 Main St, City 9, State 9",Physical Exam,99386,General,6388,Medicare,14,3.3
+Hospital 89,City 9,State 9,33587,"964 Main St, City 9, State 9",Knee Replacement,27447,Orthopedics,19834,Uninsured,32,4.1
+Hospital 89,City 9,State 9,39970,"597 Main St, City 9, State 9",Cardiac Stress Test,93015,Cardiology,10039,Private,37,4.2
+Hospital 89,City 9,State 9,86115,"391 Main St, City 9, State 9",Colonoscopy,45378,Gastroenterology,1608,Private,48,5
+Hospital 89,City 9,State 9,83878,"602 Main St, City 9, State 9",Ultrasound,76801,Radiology,16471,Uninsured,46,4.1
+Hospital 90,City 10,State 10,90511,"202 Main St, City 10, State 10",MRI,70551,Radiology,13013,Uninsured,26,4.8
+Hospital 90,City 10,State 10,56578,"920 Main St, City 10, State 10",X-Ray,71020,Radiology,12249,Medicare,7,4.6
+Hospital 90,City 10,State 10,26800,"827 Main St, City 10, State 10",Blood Test,85025,Laboratory,15569,Private,10,3.9
+Hospital 90,City 10,State 10,71609,"106 Main St, City 10, State 10",Appendectomy,44950,Surgery,5461,Uninsured,29,2.8
+Hospital 90,City 10,State 10,52686,"647 Main St, City 10, State 10",CT Scan,71260,Radiology,18596,Uninsured,30,3.3
+Hospital 90,City 10,State 10,75825,"460 Main St, City 10, State 10",Physical Exam,99386,General,3853,Uninsured,29,3.4
+Hospital 90,City 10,State 10,69834,"246 Main St, City 10, State 10",Knee Replacement,27447,Orthopedics,9285,Private,12,3.8
+Hospital 90,City 10,State 10,18748,"292 Main St, City 10, State 10",Cardiac Stress Test,93015,Cardiology,6726,Uninsured,55,4.9
+Hospital 90,City 10,State 10,57576,"110 Main St, City 10, State 10",Colonoscopy,45378,Gastroenterology,2746,Uninsured,9,3.8
+Hospital 90,City 10,State 10,49808,"783 Main St, City 10, State 10",Ultrasound,76801,Radiology,9878,Private,18,4.7
+Hospital 91,City 11,State 1,16060,"667 Main St, City 11, State 1",MRI,70551,Radiology,4116,Private,58,2.7
+Hospital 91,City 11,State 1,39257,"230 Main St, City 11, State 1",X-Ray,71020,Radiology,2218,Uninsured,36,4.4
+Hospital 91,City 11,State 1,55074,"451 Main St, City 11, State 1",Blood Test,85025,Laboratory,4626,Private,43,3.4
+Hospital 91,City 11,State 1,39317,"302 Main St, City 11, State 1",Appendectomy,44950,Surgery,14453,Medicare,11,3.6
+Hospital 91,City 11,State 1,12808,"344 Main St, City 11, State 1",CT Scan,71260,Radiology,3045,Uninsured,13,3.6
+Hospital 91,City 11,State 1,40740,"587 Main St, City 11, State 1",Physical Exam,99386,General,15827,Uninsured,34,5
+Hospital 91,City 11,State 1,92033,"755 Main St, City 11, State 1",Knee Replacement,27447,Orthopedics,1176,Medicare,14,3.7
+Hospital 91,City 11,State 1,16911,"626 Main St, City 11, State 1",Cardiac Stress Test,93015,Cardiology,9412,Medicare,33,4.2
+Hospital 91,City 11,State 1,47801,"715 Main St, City 11, State 1",Colonoscopy,45378,Gastroenterology,18561,Uninsured,25,3.7
+Hospital 91,City 11,State 1,44536,"211 Main St, City 11, State 1",Ultrasound,76801,Radiology,5250,Private,36,3.6
+Hospital 92,City 12,State 2,28045,"169 Main St, City 12, State 2",MRI,70551,Radiology,5201,Private,45,3.1
+Hospital 92,City 12,State 2,49591,"607 Main St, City 12, State 2",X-Ray,71020,Radiology,7559,Private,40,3.8
+Hospital 92,City 12,State 2,27622,"149 Main St, City 12, State 2",Blood Test,85025,Laboratory,8390,Private,58,3.6
+Hospital 92,City 12,State 2,28340,"919 Main St, City 12, State 2",Appendectomy,44950,Surgery,5929,Private,17,4.2
+Hospital 92,City 12,State 2,18953,"815 Main St, City 12, State 2",CT Scan,71260,Radiology,10816,Medicare,20,3.4
+Hospital 92,City 12,State 2,39925,"614 Main St, City 12, State 2",Physical Exam,99386,General,18008,Uninsured,59,4.3
+Hospital 92,City 12,State 2,65155,"941 Main St, City 12, State 2",Knee Replacement,27447,Orthopedics,6071,Medicare,59,4.7
+Hospital 92,City 12,State 2,41876,"187 Main St, City 12, State 2",Cardiac Stress Test,93015,Cardiology,16749,Private,39,3.2
+Hospital 92,City 12,State 2,56610,"795 Main St, City 12, State 2",Colonoscopy,45378,Gastroenterology,4092,Private,36,3.7
+Hospital 92,City 12,State 2,49093,"438 Main St, City 12, State 2",Ultrasound,76801,Radiology,11161,Uninsured,24,3
+Hospital 93,City 13,State 3,87325,"334 Main St, City 13, State 3",MRI,70551,Radiology,5221,Medicare,14,4.6
+Hospital 93,City 13,State 3,68423,"383 Main St, City 13, State 3",X-Ray,71020,Radiology,4997,Private,53,4.9
+Hospital 93,City 13,State 3,40630,"134 Main St, City 13, State 3",Blood Test,85025,Laboratory,3842,Uninsured,21,2.9
+Hospital 93,City 13,State 3,54785,"306 Main St, City 13, State 3",Appendectomy,44950,Surgery,11579,Medicare,53,4.4
+Hospital 93,City 13,State 3,84624,"347 Main St, City 13, State 3",CT Scan,71260,Radiology,2537,Medicare,37,3.8
+Hospital 93,City 13,State 3,84577,"271 Main St, City 13, State 3",Physical Exam,99386,General,1835,Uninsured,33,3
+Hospital 93,City 13,State 3,85351,"387 Main St, City 13, State 3",Knee Replacement,27447,Orthopedics,108,Private,41,3.1
+Hospital 93,City 13,State 3,64870,"912 Main St, City 13, State 3",Cardiac Stress Test,93015,Cardiology,19557,Uninsured,42,4.4
+Hospital 93,City 13,State 3,77316,"303 Main St, City 13, State 3",Colonoscopy,45378,Gastroenterology,6464,Private,40,4.2
+Hospital 93,City 13,State 3,14754,"414 Main St, City 13, State 3",Ultrasound,76801,Radiology,15078,Medicare,11,2.8
+Hospital 94,City 14,State 4,23366,"237 Main St, City 14, State 4",MRI,70551,Radiology,10772,Private,9,4.1
+Hospital 94,City 14,State 4,19485,"287 Main St, City 14, State 4",X-Ray,71020,Radiology,1261,Medicare,30,3.9
+Hospital 94,City 14,State 4,34231,"670 Main St, City 14, State 4",Blood Test,85025,Laboratory,2290,Private,6,3.1
+Hospital 94,City 14,State 4,36246,"331 Main St, City 14, State 4",Appendectomy,44950,Surgery,8986,Uninsured,48,4.9
+Hospital 94,City 14,State 4,39802,"281 Main St, City 14, State 4",CT Scan,71260,Radiology,7220,Uninsured,14,3.1
+Hospital 94,City 14,State 4,33410,"460 Main St, City 14, State 4",Physical Exam,99386,General,11504,Uninsured,21,4.7
+Hospital 94,City 14,State 4,21768,"187 Main St, City 14, State 4",Knee Replacement,27447,Orthopedics,4748,Uninsured,47,3.4
+Hospital 94,City 14,State 4,26431,"732 Main St, City 14, State 4",Cardiac Stress Test,93015,Cardiology,18977,Private,17,3.3
+Hospital 94,City 14,State 4,99113,"810 Main St, City 14, State 4",Colonoscopy,45378,Gastroenterology,497,Medicare,29,2.9
+Hospital 94,City 14,State 4,74730,"148 Main St, City 14, State 4",Ultrasound,76801,Radiology,2991,Private,13,4
+Hospital 95,City 15,State 5,99493,"120 Main St, City 15, State 5",MRI,70551,Radiology,2047,Uninsured,30,4.3
+Hospital 95,City 15,State 5,14975,"111 Main St, City 15, State 5",X-Ray,71020,Radiology,15778,Private,50,3.8
+Hospital 95,City 15,State 5,26149,"721 Main St, City 15, State 5",Blood Test,85025,Laboratory,13649,Private,18,5
+Hospital 95,City 15,State 5,27844,"569 Main St, City 15, State 5",Appendectomy,44950,Surgery,9635,Uninsured,16,4.3
+Hospital 95,City 15,State 5,38731,"632 Main St, City 15, State 5",CT Scan,71260,Radiology,2706,Medicare,19,2.8
+Hospital 95,City 15,State 5,55656,"803 Main St, City 15, State 5",Physical Exam,99386,General,8189,Private,36,2.6
+Hospital 95,City 15,State 5,40087,"516 Main St, City 15, State 5",Knee Replacement,27447,Orthopedics,14946,Medicare,19,4.2
+Hospital 95,City 15,State 5,62317,"704 Main St, City 15, State 5",Cardiac Stress Test,93015,Cardiology,8605,Uninsured,38,4.8
+Hospital 95,City 15,State 5,51740,"893 Main St, City 15, State 5",Colonoscopy,45378,Gastroenterology,14560,Uninsured,45,3
+Hospital 95,City 15,State 5,26515,"898 Main St, City 15, State 5",Ultrasound,76801,Radiology,127,Private,28,3
+Hospital 96,City 16,State 6,27590,"975 Main St, City 16, State 6",MRI,70551,Radiology,7924,Private,37,2.9
+Hospital 96,City 16,State 6,62445,"950 Main St, City 16, State 6",X-Ray,71020,Radiology,19930,Uninsured,24,3
+Hospital 96,City 16,State 6,19753,"142 Main St, City 16, State 6",Blood Test,85025,Laboratory,2051,Medicare,9,4.7
+Hospital 96,City 16,State 6,73956,"181 Main St, City 16, State 6",Appendectomy,44950,Surgery,13316,Uninsured,30,5
+Hospital 96,City 16,State 6,39795,"827 Main St, City 16, State 6",CT Scan,71260,Radiology,10588,Uninsured,9,2.7
+Hospital 96,City 16,State 6,98123,"594 Main St, City 16, State 6",Physical Exam,99386,General,16840,Medicare,58,4.1
+Hospital 96,City 16,State 6,35996,"213 Main St, City 16, State 6",Knee Replacement,27447,Orthopedics,632,Private,50,3.2
+Hospital 96,City 16,State 6,35880,"278 Main St, City 16, State 6",Cardiac Stress Test,93015,Cardiology,18016,Uninsured,38,2.9
+Hospital 96,City 16,State 6,49518,"732 Main St, City 16, State 6",Colonoscopy,45378,Gastroenterology,17505,Medicare,27,4.5
+Hospital 96,City 16,State 6,90257,"133 Main St, City 16, State 6",Ultrasound,76801,Radiology,1879,Private,38,3.7
+Hospital 97,City 17,State 7,35926,"757 Main St, City 17, State 7",MRI,70551,Radiology,4663,Uninsured,27,2.7
+Hospital 97,City 17,State 7,27779,"392 Main St, City 17, State 7",X-Ray,71020,Radiology,13261,Medicare,8,2.9
+Hospital 97,City 17,State 7,57535,"740 Main St, City 17, State 7",Blood Test,85025,Laboratory,6656,Uninsured,52,2.8
+Hospital 97,City 17,State 7,66422,"648 Main St, City 17, State 7",Appendectomy,44950,Surgery,9823,Uninsured,55,4
+Hospital 97,City 17,State 7,21317,"168 Main St, City 17, State 7",CT Scan,71260,Radiology,19700,Uninsured,59,3
+Hospital 97,City 17,State 7,59856,"110 Main St, City 17, State 7",Physical Exam,99386,General,16693,Private,16,3.5
+Hospital 97,City 17,State 7,14654,"113 Main St, City 17, State 7",Knee Replacement,27447,Orthopedics,6817,Medicare,18,4.8
+Hospital 97,City 17,State 7,83840,"510 Main St, City 17, State 7",Cardiac Stress Test,93015,Cardiology,19518,Medicare,55,4.5
+Hospital 97,City 17,State 7,23910,"660 Main St, City 17, State 7",Colonoscopy,45378,Gastroenterology,5738,Uninsured,19,4.4
+Hospital 97,City 17,State 7,72087,"145 Main St, City 17, State 7",Ultrasound,76801,Radiology,11542,Private,6,4.4
+Hospital 98,City 18,State 8,22414,"142 Main St, City 18, State 8",MRI,70551,Radiology,13539,Private,20,2.5
+Hospital 98,City 18,State 8,88474,"629 Main St, City 18, State 8",X-Ray,71020,Radiology,2463,Medicare,22,3.1
+Hospital 98,City 18,State 8,94612,"426 Main St, City 18, State 8",Blood Test,85025,Laboratory,11062,Uninsured,20,5
+Hospital 98,City 18,State 8,90095,"851 Main St, City 18, State 8",Appendectomy,44950,Surgery,4132,Uninsured,29,4.2
+Hospital 98,City 18,State 8,69021,"727 Main St, City 18, State 8",CT Scan,71260,Radiology,13729,Medicare,33,3.8
+Hospital 98,City 18,State 8,51275,"832 Main St, City 18, State 8",Physical Exam,99386,General,17270,Uninsured,33,5
+Hospital 98,City 18,State 8,25425,"527 Main St, City 18, State 8",Knee Replacement,27447,Orthopedics,10287,Private,57,3.8
+Hospital 98,City 18,State 8,35277,"169 Main St, City 18, State 8",Cardiac Stress Test,93015,Cardiology,320,Medicare,33,4.8
+Hospital 98,City 18,State 8,43822,"104 Main St, City 18, State 8",Colonoscopy,45378,Gastroenterology,9413,Uninsured,44,2.8
+Hospital 98,City 18,State 8,84351,"545 Main St, City 18, State 8",Ultrasound,76801,Radiology,17252,Uninsured,15,4
+Hospital 99,City 19,State 9,58981,"214 Main St, City 19, State 9",MRI,70551,Radiology,6550,Private,30,3.2
+Hospital 99,City 19,State 9,18502,"864 Main St, City 19, State 9",X-Ray,71020,Radiology,9341,Private,33,3.8
+Hospital 99,City 19,State 9,40029,"546 Main St, City 19, State 9",Blood Test,85025,Laboratory,7983,Uninsured,30,3.8
+Hospital 99,City 19,State 9,78976,"724 Main St, City 19, State 9",Appendectomy,44950,Surgery,2199,Uninsured,40,3
+Hospital 99,City 19,State 9,53771,"708 Main St, City 19, State 9",CT Scan,71260,Radiology,202,Uninsured,51,3.4
+Hospital 99,City 19,State 9,32478,"121 Main St, City 19, State 9",Physical Exam,99386,General,14382,Uninsured,41,4.6
+Hospital 99,City 19,State 9,31483,"566 Main St, City 19, State 9",Knee Replacement,27447,Orthopedics,13877,Private,33,3.7
+Hospital 99,City 19,State 9,76332,"506 Main St, City 19, State 9",Cardiac Stress Test,93015,Cardiology,4363,Uninsured,58,4.5
+Hospital 99,City 19,State 9,65649,"285 Main St, City 19, State 9",Colonoscopy,45378,Gastroenterology,1815,Private,14,3.7
+Hospital 99,City 19,State 9,74835,"417 Main St, City 19, State 9",Ultrasound,76801,Radiology,19858,Uninsured,30,4.8
+Hospital 100,City 20,State 10,81378,"493 Main St, City 20, State 10",MRI,70551,Radiology,11939,Private,53,4.8
+Hospital 100,City 20,State 10,86688,"133 Main St, City 20, State 10",X-Ray,71020,Radiology,13705,Medicare,59,3.7
+Hospital 100,City 20,State 10,87365,"548 Main St, City 20, State 10",Blood Test,85025,Laboratory,7263,Medicare,19,4.4
+Hospital 100,City 20,State 10,47200,"323 Main St, City 20, State 10",Appendectomy,44950,Surgery,6065,Medicare,29,3.5
+Hospital 100,City 20,State 10,39614,"550 Main St, City 20, State 10",CT Scan,71260,Radiology,1395,Medicare,34,3.3
+Hospital 100,City 20,State 10,58346,"232 Main St, City 20, State 10",Physical Exam,99386,General,1558,Uninsured,27,4.1
+Hospital 100,City 20,State 10,15623,"809 Main St, City 20, State 10",Knee Replacement,27447,Orthopedics,2291,Private,22,4.8
+Hospital 100,City 20,State 10,17345,"124 Main St, City 20, State 10",Cardiac Stress Test,93015,Cardiology,15687,Medicare,17,2.8
+Hospital 100,City 20,State 10,54036,"611 Main St, City 20, State 10",Colonoscopy,45378,Gastroenterology,18102,Medicare,14,3.3
+Hospital 100,City 20,State 10,15403,"960 Main St, City 20, State 10",Ultrasound,76801,Radiology,5891,Private,17,4.6

@@ -1,0 +1,181 @@
+Age,Gender,Lifestyle,Calories
+2,Male,Sedentary,1000
+3,Male,Sedentary,1200
+4,Male,Sedentary,1200
+5,Male,Sedentary,1200
+6,Male,Sedentary,1400
+7,Male,Sedentary,1400
+8,Male,Sedentary,1400
+9,Male,Sedentary,1600
+10,Male,Sedentary,1600
+11,Male,Sedentary,1800
+12,Male,Sedentary,1800
+13,Male,Sedentary,2000
+14,Male,Sedentary,2000
+15,Male,Sedentary,2200
+16,Male,Sedentary,2400
+17,Male,Sedentary,2400
+18,Male,Sedentary,2400
+19-20,Male,Sedentary,2600
+21-25,Male,Sedentary,2400
+26-30,Male,Sedentary,2400
+31-35,Male,Sedentary,2400
+36-40,Male,Sedentary,2400
+41-45,Male,Sedentary,2200
+46-50,Male,Sedentary,2200
+51-55,Male,Sedentary,2200
+56-60,Male,Sedentary,2200
+61-65,Male,Sedentary,2000
+66-70,Male,Sedentary,2000
+71-75,Male,Sedentary,2000
+76 and up,Male,Sedentary,2000
+2,Male,Moderately Active ,1000
+3,Male,Moderately Active ,1400
+4,Male,Moderately Active ,1400
+5,Male,Moderately Active ,1400
+6,Male,Moderately Active ,1600
+7,Male,Moderately Active ,1600
+8,Male,Moderately Active ,1600
+9,Male,Moderately Active ,1800
+10,Male,Moderately Active ,1800
+11,Male,Moderately Active ,2000
+12,Male,Moderately Active ,2200
+13,Male,Moderately Active ,2200
+14,Male,Moderately Active ,2400
+15,Male,Moderately Active ,2600
+16,Male,Moderately Active ,2800
+17,Male,Moderately Active ,2800
+18,Male,Moderately Active ,2800
+19-20,Male,Moderately Active ,2800
+21-25,Male,Moderately Active ,2800
+26-30,Male,Moderately Active ,2600
+31-35,Male,Moderately Active ,2600
+36-40,Male,Moderately Active ,2600
+41-45,Male,Moderately Active ,2600
+46-50,Male,Moderately Active ,2400
+51-55,Male,Moderately Active ,2400
+56-60,Male,Moderately Active ,2400
+61-65,Male,Moderately Active ,2200
+66-70,Male,Moderately Active ,2200
+71-75,Male,Moderately Active ,2200
+76 and up,Male,Moderately Active ,2200
+2,Male,Active,1000
+3,Male,Active,1400
+4,Male,Active,1600
+5,Male,Active,1600
+6,Male,Active,1800
+7,Male,Active,1800
+8,Male,Active,2000
+9,Male,Active,2000
+10,Male,Active,2200
+11,Male,Active,2200
+12,Male,Active,2400
+13,Male,Active,2600
+14,Male,Active,2800
+15,Male,Active,3000
+16,Male,Active,3200
+17,Male,Active,3200
+18,Male,Active,3200
+19-20,Male,Active,3000
+21-25,Male,Active,3000
+26-30,Male,Active,3000
+31-35,Male,Active,3000
+36-40,Male,Active,2800
+41-45,Male,Active,2800
+46-50,Male,Active,2800
+51-55,Male,Active,2800
+56-60,Male,Active,2800
+61-65,Male,Active,2600
+66-70,Male,Active,2600
+71-75,Male,Active,2400
+76 and up,Male,Active,2400
+2,Female,Sedentary,1000
+3,Female,Sedentary,1000
+4,Female,Sedentary,1200
+5,Female,Sedentary,1200
+6,Female,Sedentary,1200
+7,Female,Sedentary,1200
+8,Female,Sedentary,1200
+9,Female,Sedentary,1400
+10,Female,Sedentary,1400
+11,Female,Sedentary,1400
+12,Female,Sedentary,1600
+13,Female,Sedentary,1600
+14,Female,Sedentary,1600
+15,Female,Sedentary,1800
+16,Female,Sedentary,1800
+17,Female,Sedentary,1800
+18,Female,Sedentary,1800
+19-20,Female,Sedentary,2000
+21-25,Female,Sedentary,2000
+26-30,Female,Sedentary,1800
+31-35,Female,Sedentary,1800
+36-40,Female,Sedentary,1800
+41-45,Female,Sedentary,1800
+46-50,Female,Sedentary,1800
+51-55,Female,Sedentary,1800
+56-60,Female,Sedentary,1600
+61-65,Female,Sedentary,1600
+66-70,Female,Sedentary,1600
+71-75,Female,Sedentary,1600
+76 and up,Female,Sedentary,1600
+2,Female,Moderately Active,1000
+3,Female,Moderately Active,1200
+4,Female,Moderately Active,1400
+5,Female,Moderately Active,1400
+6,Female,Moderately Active,1400
+7,Female,Moderately Active,1600
+8,Female,Moderately Active,1600
+9,Female,Moderately Active,1600
+10,Female,Moderately Active,1800
+11,Female,Moderately Active,1800
+12,Female,Moderately Active,2000
+13,Female,Moderately Active,2000
+14,Female,Moderately Active,2000
+15,Female,Moderately Active,2000
+16,Female,Moderately Active,2000
+17,Female,Moderately Active,2000
+18,Female,Moderately Active,2000
+19-20,Female,Moderately Active,2200
+21-25,Female,Moderately Active,2200
+26-30,Female,Moderately Active,2000
+31-35,Female,Moderately Active,2000
+36-40,Female,Moderately Active,2000
+41-45,Female,Moderately Active,2000
+46-50,Female,Moderately Active,2000
+51-55,Female,Moderately Active,2000
+56-60,Female,Moderately Active,1800
+61-65,Female,Moderately Active,1800
+66-70,Female,Moderately Active,1800
+71-75,Female,Moderately Active,1800
+76 and up,Female,Moderately Active,1800
+2,Female,Active,1000
+3,Female,Active,1400
+4,Female,Active,1400
+5,Female,Active,1600
+6,Female,Active,1800
+7,Female,Active,1800
+8,Female,Active,1800
+9,Female,Active,2000
+10,Female,Active,2000
+11,Female,Active,2000
+12,Female,Active,2200
+13,Female,Active,2200
+14,Female,Active,2400
+15,Female,Active,2400
+16,Female,Active,2400
+17,Female,Active,2400
+18,Female,Active,2400
+19-20,Female,Active,2400
+21-25,Female,Active,2400
+26-30,Female,Active,2400
+31-35,Female,Active,2200
+36-40,Female,Active,2200
+41-45,Female,Active,2200
+46-50,Female,Active,2200
+51-55,Female,Active,2200
+56-60,Female,Active,2000
+61-65,Female,Active,2000
+66-70,Female,Active,2000
+71-75,Female,Active,2000
+76 and up,Female,Active,2000
